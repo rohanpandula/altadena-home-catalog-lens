@@ -1,0 +1,599 @@
+- !<AssetCache>
+  AssetFiles:
+    7f086c7b-9110-4757-851f-0c4a203d40c4: dcf38b75-8b18-fd8e-2122-e6900388a3ee/9fa7e3bc8cd58d9470ccdfdacb51eab2/Data/Mf_Button-Basic.ss_graph
+  Assets:
+    - !<ShaderGraphPass/7f086c7b-9110-4757-851f-0c4a203d40c4>
+      PackagePath: ""
+      DefaultDefines:
+        []
+      DefaultProperties:
+        Port_Depth_N004:
+          typeIdx: 1
+          value: 1.000000
+        Port_FinalColor1_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor2_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor3_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_GSplatPointSize_N004:
+          typeIdx: 1
+          value: 0.000000
+        Port_GSplatRotation_N004:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+        Port_GSplatScale_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_LODValue_N062:
+          typeIdx: 1
+          value: 0.000000
+        Port_PrevWorldPosition_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_RayDirection_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_RayOrigin_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_Scale_N005:
+          typeIdx: 3
+          value: {x: 5.000000, y: 5.000000}
+        Port_WorldNormal_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_WorldTangent_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 1.000000}
+      PassUiData: !<PassUiData>
+        ExtraDefines:
+          []
+        PassBindings:
+          - mLabel: Graph Parameters
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: _scaleMult_
+            mType: Property
+            mName: _scaleMult_
+            mWidget: spinbox
+            mHint: "Property: _scaleMult_"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Screen
+            mType: Property
+            mName: screen
+            mWidget: texture_group
+            mHint: "Property: screen"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: extraTex
+            mType: Property
+            mName: extraTex
+            mWidget: texture_group
+            mHint: "Property: extraTex"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Glass Setup
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: baseColor
+            mType: Property
+            mName: baseColor
+            mWidget: color
+            mHint: "Property: baseColor"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: useTex
+            mType: Property
+            mName: useTex
+            mWidget: checkbox
+            mHint: "Property: useTex"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: thickness
+            mType: Property
+            mName: thickness
+            mWidget: spinbox
+            mHint: "Property: thickness"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: frost
+            mType: Property
+            mName: frost
+            mWidget: spinbox
+            mHint: "Property: frost"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: quality
+            mType: Property
+            mName: quality
+            mWidget: spinbox
+            mHint: "Property: quality"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: material
+            mType: Property
+            mName: material
+            mWidget: spinbox
+            mHint: "Property: material"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: chromaticAbbr
+            mType: Property
+            mName: chromaticAbbr
+            mWidget: spinbox
+            mHint: "Property: chromaticAbbr"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: chromaticAbbrOnSurface
+            mType: Property
+            mName: chromaticAbbrOnSurface
+            mWidget: checkbox
+            mHint: "Property: chromaticAbbrOnSurface"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: topLighting
+            mType: Property
+            mName: topLighting
+            mWidget: checkbox
+            mHint: "Property: topLighting"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: lightAngle
+            mType: Property
+            mName: lightAngle
+            mWidget: spinbox
+            mHint: "Property: lightAngle"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: bleed
+            mType: Property
+            mName: bleed
+            mWidget: spinbox
+            mHint: "Property: bleed"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: transparency
+            mType: Property
+            mName: transparency
+            mWidget: spinbox
+            mHint: "Property: transparency"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Shape Setup
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: shapeSoftness
+            mType: Property
+            mName: shapeSoftness
+            mWidget: spinbox
+            mHint: "Property: shapeSoftness"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: cornerRadius
+            mType: Property
+            mName: cornerRadius
+            mWidget: spinbox
+            mHint: "Property: cornerRadius"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: shapeScale
+            mType: Property
+            mName: shapeScale
+            mWidget: spinbox
+            mHint: "Property: shapeScale"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: shapePosition
+            mType: Property
+            mName: shapePosition
+            mWidget: spinbox
+            mHint: "Property: shapePosition"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Touch Setup
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: p0
+            mType: Property
+            mName: p0
+            mWidget: spinbox
+            mHint: "Property: p0"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: p1
+            mType: Property
+            mName: p1
+            mWidget: spinbox
+            mHint: "Property: p1"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: touchInput
+            mType: Property
+            mName: touchInput
+            mWidget: spinbox
+            mHint: "Property: touchInput"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: pressure
+            mType: Property
+            mName: pressure
+            mWidget: spinbox
+            mHint: "Property: pressure"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: thumbSize
+            mType: Property
+            mName: thumbSize
+            mWidget: spinbox
+            mHint: "Property: thumbSize"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: stretchStrength
+            mType: Property
+            mName: stretchStrength
+            mWidget: spinbox
+            mHint: "Property: stretchStrength"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: pressDownStrength
+            mType: Property
+            mName: pressDownStrength
+            mWidget: spinbox
+            mHint: "Property: pressDownStrength"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: nudgeStrength
+            mType: Property
+            mName: nudgeStrength
+            mWidget: spinbox
+            mHint: "Property: nudgeStrength"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: pressLight
+            mType: Property
+            mName: pressLight
+            mWidget: checkbox
+            mHint: "Property: pressLight"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: hoverLight
+            mType: Property
+            mName: hoverLight
+            mWidget: checkbox
+            mHint: "Property: hoverLight"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: constantStretch
+            mType: Property
+            mName: constantStretch
+            mWidget: checkbox
+            mHint: "Property: constantStretch"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Icon Setup
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: icon0
+            mType: Property
+            mName: icon0
+            mWidget: texture_group
+            mHint: "Property: icon0"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: maxBlur
+            mType: Property
+            mName: maxBlur
+            mWidget: spinbox
+            mHint: "Property: maxBlur"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: useColor
+            mType: Property
+            mName: useColor
+            mWidget: checkbox
+            mHint: "Property: useColor"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: iconColor
+            mType: Property
+            mName: iconColor
+            mWidget: color
+            mHint: "Property: iconColor"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: colorChannel
+            mType: Property
+            mName: colorChannel
+            mWidget: spinbox
+            mHint: "Property: colorChannel"
+            mMin: ~
+            mMax: ~
+            mStep: 1.000000
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: iconScale
+            mType: Property
+            mName: iconScale
+            mWidget: spinbox
+            mHint: "Property: iconScale"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: iconPosition
+            mType: Property
+            mName: iconPosition
+            mWidget: spinbox
+            mHint: "Property: iconPosition"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Alpha Test Threshold
+            mType: Property
+            mName: alphaTestThreshold
+            mWidget: slider
+            mHint: |-
+              Property: alphaTestThreshold
+              
+              When the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear.
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.001000
+            mDefaultVal: 0.500000
+            mValues:
+              []
+        ShaderType: Mesh3d
+      ShaderPath: dcf38b75-8b18-fd8e-2122-e6900388a3ee/9fa7e3bc8cd58d9470ccdfdacb51eab2/Data/6a992e8/Mf_Button-Basic.glsl
+      Defines:
+        []
+      Properties:
+        {}
+      ReferencedAssets:
+        []
+      GraphStatus: Evaluated
+  SourceHash: 9fa7e3bc8cd58d9470ccdfdacb51eab2
+  FileHash: 00056c8826b7cd050e924b77fb0dc933
+  NativePackageItems:
+    []

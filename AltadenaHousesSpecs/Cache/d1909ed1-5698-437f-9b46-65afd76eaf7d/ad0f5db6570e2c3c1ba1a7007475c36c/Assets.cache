@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    c5a8852f-8851-4503-a738-c21eef2d22ee: d1909ed1-5698-437f-9b46-65afd76eaf7d/ad0f5db6570e2c3c1ba1a7007475c36c/Data/19_carmelina.jpg
+  Assets:
+    - !<FileTexture/c5a8852f-8851-4503-a738-c21eef2d22ee>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 330
+  SourceHash: ad0f5db6570e2c3c1ba1a7007475c36c
+  FileHash: dd2a476f36ef8e081de47c84832e4ee7
+  NativePackageItems:
+    []

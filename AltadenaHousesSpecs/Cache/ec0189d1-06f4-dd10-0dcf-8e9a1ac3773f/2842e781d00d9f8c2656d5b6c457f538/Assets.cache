@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    2daf1bdd-2e2b-496b-af92-747d0dd8b161: ec0189d1-06f4-dd10-0dcf-8e9a1ac3773f/2842e781d00d9f8c2656d5b6c457f538/Data/frame-bg-texture.png
+  Assets:
+    - !<FileTexture/2daf1bdd-2e2b-496b-af92-747d0dd8b161>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: 2842e781d00d9f8c2656d5b6c457f538
+  FileHash: 9c402ce718f97c6aa845a5d74cb0299d
+  NativePackageItems:
+    []

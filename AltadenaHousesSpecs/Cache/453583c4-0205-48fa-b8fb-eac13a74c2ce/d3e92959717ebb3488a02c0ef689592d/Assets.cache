@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    d13075b7-06b5-453c-b026-dde2163aa82b: 453583c4-0205-48fa-b8fb-eac13a74c2ce/d3e92959717ebb3488a02c0ef689592d/Data/fp_casitablanca.jpg
+  Assets:
+    - !<FileTexture/d13075b7-06b5-453c-b026-dde2163aa82b>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: d3e92959717ebb3488a02c0ef689592d
+  FileHash: d63003ac4bd121e71f60df9efc068d74
+  NativePackageItems:
+    []

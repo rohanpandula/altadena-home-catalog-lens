@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    5e5c88ec-9225-411c-bd23-966478c03afb: 9f45c58d-7bf2-4cd1-ae5b-e4b1b61e5cb1/a75edc0ba660f939f3cc8808f38eb208/Data/fp_elderflower.jpg
+  Assets:
+    - !<FileTexture/5e5c88ec-9225-411c-bd23-966478c03afb>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: a75edc0ba660f939f3cc8808f38eb208
+  FileHash: 3534aff46a78ad1b434c69f69ed4e458
+  NativePackageItems:
+    []

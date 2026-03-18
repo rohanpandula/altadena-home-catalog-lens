@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    d3646801-132d-421b-8a11-0944b473dbef: a581772e-581b-0d07-7034-76822c5ff1d8/9f0ec466eec5abc4ab24ef00e9da5cd5/Data/T_InvisibleTex.png
+  Assets:
+    - !<FileTexture/d3646801-132d-421b-8a11-0944b473dbef>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 8
+        Height: 8
+  SourceHash: 9f0ec466eec5abc4ab24ef00e9da5cd5
+  FileHash: ba10533c3e4018362f9e0d242b3be1ec
+  NativePackageItems:
+    []

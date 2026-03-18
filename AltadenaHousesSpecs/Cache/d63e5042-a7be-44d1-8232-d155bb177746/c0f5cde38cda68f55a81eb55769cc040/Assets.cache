@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    e13766e2-9952-4eab-a128-0e147d8542cd: d63e5042-a7be-44d1-8232-d155bb177746/c0f5cde38cda68f55a81eb55769cc040/Data/13_elizabeth.jpg
+  Assets:
+    - !<FileTexture/e13766e2-9952-4eab-a128-0e147d8542cd>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 165
+  SourceHash: c0f5cde38cda68f55a81eb55769cc040
+  FileHash: 9126b9950d57c38fda508ad75b52da59
+  NativePackageItems:
+    []

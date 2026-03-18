@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    c04afd29-2cfb-4457-9b0d-11b011901b06: a5ea8f3a-c3df-4b43-9fff-1ad28adbefe9/7e497ee725cbdadc6f34d2be3726f6ef/Data/08_mariposa.jpg
+  Assets:
+    - !<FileTexture/c04afd29-2cfb-4457-9b0d-11b011901b06>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 293
+  SourceHash: 7e497ee725cbdadc6f34d2be3726f6ef
+  FileHash: 478b83347456f2d196a21813474c7476
+  NativePackageItems:
+    []

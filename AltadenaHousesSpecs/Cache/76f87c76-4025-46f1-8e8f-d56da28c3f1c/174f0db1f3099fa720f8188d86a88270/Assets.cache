@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    08260ba8-3166-422d-8adb-50865bb4cf5a: 76f87c76-4025-46f1-8e8f-d56da28c3f1c/174f0db1f3099fa720f8188d86a88270/Data/17_monterey.jpg
+  Assets:
+    - !<FileTexture/08260ba8-3166-422d-8adb-50865bb4cf5a>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 165
+  SourceHash: 174f0db1f3099fa720f8188d86a88270
+  FileHash: c81fdcf1395738e84f58b56cded96123
+  NativePackageItems:
+    []

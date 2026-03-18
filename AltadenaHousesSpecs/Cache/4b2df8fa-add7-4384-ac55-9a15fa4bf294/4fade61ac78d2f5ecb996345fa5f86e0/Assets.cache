@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    89787858-e9a6-48d2-a746-686830444780: 4b2df8fa-add7-4384-ac55-9a15fa4bf294/4fade61ac78d2f5ecb996345fa5f86e0/Data/11_alice.jpg
+  Assets:
+    - !<FileTexture/89787858-e9a6-48d2-a746-686830444780>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 330
+  SourceHash: 4fade61ac78d2f5ecb996345fa5f86e0
+  FileHash: dd9b72dcb9e44a14f454be24908050ce
+  NativePackageItems:
+    []

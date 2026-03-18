@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    9002f986-da14-429f-8d8a-f8efd4efb6fe: c5d9cdb1-2f6f-0258-c1a9-2d6f7fef2e1e/042e3fd7d8df31ebc0bdee17ada2814a/Data/08_Gradient sample for slider.png
+  Assets:
+    - !<FileTexture/9002f986-da14-429f-8d8a-f8efd4efb6fe>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 1
+  SourceHash: 042e3fd7d8df31ebc0bdee17ada2814a
+  FileHash: 46bab02c92f89dbbcb7b6cb6f7317d2b
+  NativePackageItems:
+    []

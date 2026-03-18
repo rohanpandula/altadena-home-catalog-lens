@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    155f71ab-bbe3-4d83-aeaf-f8dce4ec826b: 0056c308-d3bf-6c13-e1c0-1a730117f5b6/41b0c340f8c4eeb68b56d7b1fd230980/Data/06_Modify icon sets accordingly.png
+  Assets:
+    - !<FileTexture/155f71ab-bbe3-4d83-aeaf-f8dce4ec826b>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 256
+  SourceHash: 41b0c340f8c4eeb68b56d7b1fd230980
+  FileHash: 44d5dc496792cf472051dd4ab282d0fd
+  NativePackageItems:
+    []

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    9997f0d4-f9fa-4069-82fd-e45f822142ce: 9527faad-7b2c-07ed-da1a-857281d46490/03ecbea043b031e218daaf4ddde0e494/Data/10_Item list for vertical menu.png
+  Assets:
+    - !<FileTexture/9997f0d4-f9fa-4069-82fd-e45f822142ce>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 1024
+  SourceHash: 03ecbea043b031e218daaf4ddde0e494
+  FileHash: 594167a5be602751c2a8be6c3ba52c6b
+  NativePackageItems:
+    []

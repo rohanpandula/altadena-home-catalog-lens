@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    9b8c5b82-0a18-4e14-96ea-d467ef48ed37: 11741da7-5c3d-4227-bc0e-fcf36651507c/ab3879dc69c4928bc29e2786757bdc7d/Data/fp_delaware.jpg
+  Assets:
+    - !<FileTexture/9b8c5b82-0a18-4e14-96ea-d467ef48ed37>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: ab3879dc69c4928bc29e2786757bdc7d
+  FileHash: cfaeb480e03c587bc7e57e11f545b219
+  NativePackageItems:
+    []

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    5332c7b5-62da-49f5-9480-fe52f7c8d59c: 089d1979-0950-49d7-b8cf-4a572ce23783/226de3f8ce539fe7bde5accbfef78494/Data/fp_elizabeth.jpg
+  Assets:
+    - !<FileTexture/5332c7b5-62da-49f5-9480-fe52f7c8d59c>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 226de3f8ce539fe7bde5accbfef78494
+  FileHash: 234dac06847eff889ed340d62ef83d69
+  NativePackageItems:
+    []

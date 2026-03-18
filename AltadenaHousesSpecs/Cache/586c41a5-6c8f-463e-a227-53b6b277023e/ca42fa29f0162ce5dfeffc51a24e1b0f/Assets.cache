@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    d7bb06b6-590d-4cef-91ef-077cc740e81f: 586c41a5-6c8f-463e-a227-53b6b277023e/ca42fa29f0162ce5dfeffc51a24e1b0f/Data/21_maybrook.jpg
+  Assets:
+    - !<FileTexture/d7bb06b6-590d-4cef-91ef-077cc740e81f>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 330
+  SourceHash: ca42fa29f0162ce5dfeffc51a24e1b0f
+  FileHash: a7709e40a4628931d3cc374242922e57
+  NativePackageItems:
+    []

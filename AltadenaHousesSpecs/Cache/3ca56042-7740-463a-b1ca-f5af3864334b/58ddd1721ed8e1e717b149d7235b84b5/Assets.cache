@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    86236934-4036-4366-8237-75da878b2b71: 3ca56042-7740-463a-b1ca-f5af3864334b/58ddd1721ed8e1e717b149d7235b84b5/Data/07_palm.jpg
+  Assets:
+    - !<FileTexture/86236934-4036-4366-8237-75da878b2b71>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 313
+  SourceHash: 58ddd1721ed8e1e717b149d7235b84b5
+  FileHash: 28cdc658b9e12735fec521a720d162fb
+  NativePackageItems:
+    []

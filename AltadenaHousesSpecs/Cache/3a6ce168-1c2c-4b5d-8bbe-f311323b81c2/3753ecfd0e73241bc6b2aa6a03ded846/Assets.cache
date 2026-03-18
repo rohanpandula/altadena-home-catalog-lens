@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    568e6132-8763-4f02-aec9-509100b58486: 3a6ce168-1c2c-4b5d-8bbe-f311323b81c2/3753ecfd0e73241bc6b2aa6a03ded846/Data/22_charmant.jpg
+  Assets:
+    - !<FileTexture/568e6132-8763-4f02-aec9-509100b58486>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 165
+  SourceHash: 3753ecfd0e73241bc6b2aa6a03ded846
+  FileHash: 99ebde2f33b3682744d6104f076416be
+  NativePackageItems:
+    []

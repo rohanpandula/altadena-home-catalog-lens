@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    f71b01b7-5efd-4dc6-9c03-151fc9ba3ade: ad6c0112-455e-4a8f-9fbf-94561407319f/6de144cbd15daf76eda84e3b690e5ccd/Data/18_lexington.jpg
+  Assets:
+    - !<FileTexture/f71b01b7-5efd-4dc6-9c03-151fc9ba3ade>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 165
+  SourceHash: 6de144cbd15daf76eda84e3b690e5ccd
+  FileHash: 583f2e8119b074565c622d3dff592a5c
+  NativePackageItems:
+    []

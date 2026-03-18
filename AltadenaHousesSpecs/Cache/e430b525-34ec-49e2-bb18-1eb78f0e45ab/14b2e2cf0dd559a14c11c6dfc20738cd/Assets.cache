@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    193205ec-0042-4b21-8cca-beaf05745c3f: e430b525-34ec-49e2-bb18-1eb78f0e45ab/14b2e2cf0dd559a14c11c6dfc20738cd/Data/fp_figueroa.jpg
+  Assets:
+    - !<FileTexture/193205ec-0042-4b21-8cca-beaf05745c3f>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 14b2e2cf0dd559a14c11c6dfc20738cd
+  FileHash: f763f06b1fbeca332efad845939101ab
+  NativePackageItems:
+    []

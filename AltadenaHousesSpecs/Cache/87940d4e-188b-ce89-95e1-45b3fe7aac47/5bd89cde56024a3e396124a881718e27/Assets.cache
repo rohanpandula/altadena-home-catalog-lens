@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    0768b46b-6cf0-4ce3-9c99-40a341f81bd3: 87940d4e-188b-ce89-95e1-45b3fe7aac47/5bd89cde56024a3e396124a881718e27/Data/Polygon 2.png
+  Assets:
+    - !<FileTexture/0768b46b-6cf0-4ce3-9c99-40a341f81bd3>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 375
+        Height: 266
+  SourceHash: 5bd89cde56024a3e396124a881718e27
+  FileHash: 65d6fc29266d49f6471003a57ef3b85c
+  NativePackageItems:
+    []

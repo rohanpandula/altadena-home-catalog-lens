@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    1e4166e0-de25-483b-9a6b-ed272d95da9d: 19be2a09-43ad-4d14-9075-9add33610b9d/74ec5a3de116b96ded9f5e123a1e462e/Data/fp_lexington.jpg
+  Assets:
+    - !<FileTexture/1e4166e0-de25-483b-9a6b-ed272d95da9d>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 74ec5a3de116b96ded9f5e123a1e462e
+  FileHash: 77531f6b967964992c4c6498c16c8747
+  NativePackageItems:
+    []

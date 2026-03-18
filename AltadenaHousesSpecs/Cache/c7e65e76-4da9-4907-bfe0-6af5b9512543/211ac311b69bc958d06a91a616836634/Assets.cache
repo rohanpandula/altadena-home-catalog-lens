@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    fa05527f-d264-450a-8619-0cff55f89391: c7e65e76-4da9-4907-bfe0-6af5b9512543/211ac311b69bc958d06a91a616836634/Data/fp_maybrook.jpg
+  Assets:
+    - !<FileTexture/fa05527f-d264-450a-8619-0cff55f89391>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: 211ac311b69bc958d06a91a616836634
+  FileHash: b5ae2d1fbde5032a29cd329a4a1087cd
+  NativePackageItems:
+    []

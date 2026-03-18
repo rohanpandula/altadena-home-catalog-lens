@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    e52fd791-ac0d-4152-8268-1de2ba662e43: c88918c3-aa9b-476a-af6c-26c22b0ab644/fbc52017ed7a9cdc2013cc4fb2f21e46/Data/04_elderflower.jpg
+  Assets:
+    - !<FileTexture/e52fd791-ac0d-4152-8268-1de2ba662e43>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 330
+  SourceHash: fbc52017ed7a9cdc2013cc4fb2f21e46
+  FileHash: 47ce5f44a3d24f7450864856bcc097d3
+  NativePackageItems:
+    []

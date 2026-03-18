@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    37e91f66-19d0-4c73-8ad6-ca702a73419c: 19e8bb5d-235f-41d6-9eb5-f3d5d87f2a4a/aa40e13eac2f03d7be7c95a476d0b116/Data/fp_mariposa.jpg
+  Assets:
+    - !<FileTexture/37e91f66-19d0-4c73-8ad6-ca702a73419c>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: aa40e13eac2f03d7be7c95a476d0b116
+  FileHash: 27c954de5219d6b95d2236cc51112840
+  NativePackageItems:
+    []

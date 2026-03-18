@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    e1619275-6eed-43de-8778-9f073b453016: a585bf73-84f4-4f0d-81bd-f6949cbb78f7/29eee035f822bc1de5b58afd5910a35a/Data/fp_gregory.jpg
+  Assets:
+    - !<FileTexture/e1619275-6eed-43de-8778-9f073b453016>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: 29eee035f822bc1de5b58afd5910a35a
+  FileHash: 47757df1711970dfee7b4df22ce19d42
+  NativePackageItems:
+    []

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    57ef7cda-6291-43e0-8215-3fe466a55fd8: feb7ff69-0bb5-4821-a7cd-7baaeeb50fa5/c9402728b7f150f915e63d8cf36338b3/Data/12_casita_blanca.jpg
+  Assets:
+    - !<FileTexture/57ef7cda-6291-43e0-8215-3fe466a55fd8>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 165
+  SourceHash: c9402728b7f150f915e63d8cf36338b3
+  FileHash: cdbb60d5dd9798a00cf0ebbc491d59c6
+  NativePackageItems:
+    []

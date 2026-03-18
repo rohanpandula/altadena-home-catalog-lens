@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    54cb11b0-39b0-4194-aaa9-b4b60cd5f291: a562bee1-20b6-b0f7-b6af-e7b14b934f2d/d9cf95f9f63676940f3482235af99712/Data/01_You may pack your icons.png
+  Assets:
+    - !<FileTexture/54cb11b0-39b0-4194-aaa9-b4b60cd5f291>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: d9cf95f9f63676940f3482235af99712
+  FileHash: ba172cb7642a1543387a9adc5f66f4dc
+  NativePackageItems:
+    []

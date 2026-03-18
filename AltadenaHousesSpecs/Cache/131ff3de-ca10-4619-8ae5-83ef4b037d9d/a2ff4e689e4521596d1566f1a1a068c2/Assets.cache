@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    1b4d49f1-7197-499e-9b49-e27174bcf354: 131ff3de-ca10-4619-8ae5-83ef4b037d9d/a2ff4e689e4521596d1566f1a1a068c2/Data/03_la_paz.jpg
+  Assets:
+    - !<FileTexture/1b4d49f1-7197-499e-9b49-e27174bcf354>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 342
+  SourceHash: a2ff4e689e4521596d1566f1a1a068c2
+  FileHash: 191298b8f6b1769c5c5486fc001b4375
+  NativePackageItems:
+    []

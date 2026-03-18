@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    e8f5f730-7b08-448f-9b0c-295ee2f0a829: 1c196cec-4c29-4eb5-87d1-9cf2d00051f5/dc2538f4e9980c1b396ec2768c81ea19/Data/02_montana.jpg
+  Assets:
+    - !<FileTexture/e8f5f730-7b08-448f-9b0c-295ee2f0a829>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 165
+  SourceHash: dc2538f4e9980c1b396ec2768c81ea19
+  FileHash: 3a813b5be093b7fc452e32ae2025b64c
+  NativePackageItems:
+    []

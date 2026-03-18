@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    83c12769-8d7e-4163-a0cb-c64c30c6ce33: a4ff0dd1-6f54-470d-b31c-a1005ac14791/c3f075d1911941b83362bf96462104e3/Data/fp_lapaz.jpg
+  Assets:
+    - !<FileTexture/83c12769-8d7e-4163-a0cb-c64c30c6ce33>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: c3f075d1911941b83362bf96462104e3
+  FileHash: b44731f61b06bdb614a80e270c20bd04
+  NativePackageItems:
+    []

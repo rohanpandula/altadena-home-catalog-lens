@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    56aea151-102c-43a0-9d92-ebc9c3fd1456: 85bb0b75-5fb2-491d-84a0-6dd39c1f4fac/ccc7efcca9ed5d9f8f56fcf2b161405f/Data/09_billy.jpg
+  Assets:
+    - !<FileTexture/56aea151-102c-43a0-9d92-ebc9c3fd1456>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 165
+  SourceHash: ccc7efcca9ed5d9f8f56fcf2b161405f
+  FileHash: acb5ed1a6b2f490f3410e7119baae5ac
+  NativePackageItems:
+    []

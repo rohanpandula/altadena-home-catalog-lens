@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    37db67ca-108a-408b-bab9-ab7fa1662ce0: 985f3540-baa5-4efe-8e95-eabb13a20944/eeaabd8e637c71b02516a744d08d6f7e/Data/16_figueroa.jpg
+  Assets:
+    - !<FileTexture/37db67ca-108a-408b-bab9-ab7fa1662ce0>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 330
+  SourceHash: eeaabd8e637c71b02516a744d08d6f7e
+  FileHash: c721f7853a64b9e9e3e6d9835843b31b
+  NativePackageItems:
+    []

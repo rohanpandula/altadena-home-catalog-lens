@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    5337a51d-9c30-41b0-97b4-737b5a1169dc: cd4145b6-fea4-e005-c8cd-7f8ef082b10c/3cbb532fec0cbc2a34c96f192d5943bb/Data/09_Icons for horizontal menu.png
+  Assets:
+    - !<FileTexture/5337a51d-9c30-41b0-97b4-737b5a1169dc>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 3cbb532fec0cbc2a34c96f192d5943bb
+  FileHash: a0ae99fc089cb0320f6fca19a7f7e8c7
+  NativePackageItems:
+    []

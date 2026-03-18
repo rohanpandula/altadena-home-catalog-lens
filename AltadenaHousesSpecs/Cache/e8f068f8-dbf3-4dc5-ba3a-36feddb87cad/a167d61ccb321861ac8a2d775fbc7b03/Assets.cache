@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    4ecdf05d-68a0-4436-8d89-04beaafbabd1: e8f068f8-dbf3-4dc5-ba3a-36feddb87cad/a167d61ccb321861ac8a2d775fbc7b03/Data/fp_cromwell.jpg
+  Assets:
+    - !<FileTexture/4ecdf05d-68a0-4436-8d89-04beaafbabd1>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: a167d61ccb321861ac8a2d775fbc7b03
+  FileHash: d9dcafd959dd32cc6a7c821841a6f3c5
+  NativePackageItems:
+    []

@@ -1,0 +1,188 @@
+- !<AssetImportMetadata/2e613c83-ba45-4cc3-9781-5e54c4400d52>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 9c51b798-8a00-44a3-b90e-d77d72c161b9
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 9c51b798-8a00-44a3-b90e-d77d72c161b9
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> e592d9e1-9945-4d85-bfa6-0fc657013a27
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/e592d9e1-9945-4d85-bfa6-0fc657013a27>
+  SvgIcon: |-
+    <svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" class="iconify iconify--emojione" role="img" aria-hidden="true">
+    
+     <g>
+      <title>Layer 1</title>
+      <path id="svg_1" fill="#a1b8c7" opacity="0.8" d="m32,2c-9.9,0 -18,3.8 -18,8.4c0,0 0,28 7.7,43.7c0.7,4.5 5,7.9 10.3,7.9c5.2,0 9.5,-3.4 10.3,-7.9c7.7,-15.7 7.7,-43.7 7.7,-43.7c0,-4.6 -8.1,-8.4 -18,-8.4"/>
+      <g id="svg_2" fill="#555e63">
+       <path id="svg_3" opacity="0.3" d="m32,58.3c-4.3,0 -8.1,-1.7 -10.3,-4.2c0.7,4.5 5,7.9 10.3,7.9c5.2,0 9.5,-3.4 10.3,-7.9c-2.2,2.5 -6,4.2 -10.3,4.2"/>
+       <path id="svg_4" opacity="0.3" d="m32,59c-3.4,0 -6.4,-0.9 -8.1,-2.3c0.6,2.4 4,4.3 8.1,4.3s7.5,-1.9 8.1,-4.3c-1.7,1.4 -4.7,2.3 -8.1,2.3"/>
+      </g>
+      <path id="svg_13" fill="#555e63" opacity="0.3" d="m32,2c-9.9,0 -18,3.8 -18,8.4c0,4.6 8.1,8.4 18,8.4s18,-3.8 18,-8.4c0,-4.6 -8.1,-8.4 -18,-8.4m0,14.6c-9.1,0 -16.5,-3 -16.5,-6.7s7.4,-7.2 16.5,-7.2s16.5,3.5 16.5,7.2s-7.4,6.7 -16.5,6.7"/>
+     </g>
+    </svg>
+  SetupScript:
+    code: ""
+  Description: "Liqmo Glass Selector acts as a menu highlighter and actuator for sliders/switches, providing a glass-like visual cue for selection and positioning when combined with Liqmo Glass Basic Button."
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 55de9465-968b-4cee-ba38-8cbcb1dce5dc
+  ExportUid: 203cef33-7e78-4287-ad03-9de6b3dcf960
+  PackagePolicy: CannotBeUnpacked
+  ScriptInputsHidden:
+    bindTouchToInteraction: false
+    buttonType: false
+    customBaseInteraction: false
+    dampSpeed: false
+    debugMaterial: true
+    glassSettings: false
+    invisibleTex: true
+    material: true
+    max: false
+    min: false
+    renderOrder: false
+    selectedIconsSetup: false
+    shapeSettings: false
+    touchSettings: false
+    useCustomTouchArea: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> e62e907d-686c-48fa-b278-cf14ce78f4d9
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - renderOrder: 0
+      dampSpeed: !<float> 10.000000
+      bindTouchToInteraction: false
+      glassSettings:
+        thickness: !<float> 0.000000
+        frost: !<float> 0.000000
+        transparency: !<float> 1.000000
+        material: 0.700000
+        useTex: false
+        baseColor: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+        extraTex: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+        topLighting: false
+        lightAngle: !<float> 1.000000
+        bleed: !<float> 10.000000
+        chromaticAbbr: !<float> 0.000000
+        chromaticAbbrOnSurface: false
+        quality: 1
+      touchSettings:
+        stretchStrength: 0.100000
+        pressDownStrength: !<float> 0.000000
+        nudgeStrength: !<float> 0.000000
+        pressLight: false
+        hoverLight: false
+        constantStretch: false
+      shapeSettings:
+        shapeScale: !<Vec2> {x: 1.000000, y: 1.000000}
+        shapePosition: !<Vec2> {x: 0.000000, y: 0.000000}
+        shapeSoftness: 0.400000
+        cornerRadius: !<Vec4> {x: 0.250000, y: 0.250000, z: 0.250000, w: 0.250000}
+      min: !<Vec2> {x: -1.000000, y: -1.000000}
+      max: !<Vec2> {x: 1.000000, y: 1.000000}
+      selectedIconsSetup:
+        selectorMagnification: !<float> 0.000000
+        icon1: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+        useColorAlt: false
+        iconColorAlt: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+        colorChannelAlt: !<float> 0.000000
+      buttonType: !<float> 0.000000
+      useCustomTouchArea: false
+      customBaseInteraction:
+        debugOnScreen: false
+        position: !<Vec2> {x: 0.000000, y: 0.000000}
+        scale: !<Vec2> {x: 1.000000, y: 1.000000}
+      material: !<reference.Material> 9ad34698-46bb-4d4c-b0d8-8d1e1a15b20b
+      debugMaterial: !<reference.Material> 49fe6dd7-3215-4e01-b004-5aef23dc37b5
+      invisibleTex: !<reference.Texture> d3646801-132d-421b-8a11-0944b473dbef
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input int renderOrder
+    - // @input float dampSpeed = 10
+    - // @input bool bindTouchToInteraction
+    - '// @ui {"widget":"separator"}'
+    - /*
+    - "@typedef GlassSettings"
+    - "@property {float} thickness = 2"
+    - "@property {float} frost = 1"
+    - '@property {float} transparency {"widget":"slider", "min":0, "max":1, "step":0.01}'
+    - '@property {float} material = 0.7 {"widget":"slider", "min":0, "max":1, "step":0.01}'
+    - '@property {bool} useTex {"label":"Use Texture"}'
+    - '@property {vec4} baseColor = {0,0,0,1} {"label":"Color Tint", "widget":"color", "showIf":"useTex", "showIfValue":false}'
+    - '@property {Asset.Texture} extraTex {"label":"Texture", "showIf":"useTex"}'
+    - '@ui {"widget":"label", "label":""}'
+    - '@property {bool} topLighting {"label":"Flat Lighting"}'
+    - '@property {float} lightAngle = 1 {"widget":"slider", "min":0, "max":360, "step":1}'
+    - '@property {float} bleed = 10 {"label":"Light Bleed"}'
+    - '@ui {"widget":"label", "label":""}'
+    - '@property {float} chromaticAbbr = 1 {"label":"⚠️ Chromatic Aberration", "hint":"Higher values may impact performance"}'
+    - '@property {bool} chromaticAbbrOnSurface {"label":"⚠️ On Surface", "hint":"May impact performance"}'
+    - '@ui {"widget":"label", "label":""}'
+    - '@property {int} quality = 20 {"label":"⚠️ Render Quality", "hint":"Higher values will impact performance"}'
+    - "*/"
+    - // @input GlassSettings glassSettings
+    - '// @ui {"widget":"separator"}'
+    - /*
+    - "@typedef TouchSettings"
+    - '@property {float} stretchStrength = 0.1 {"label":"Stretch", "widget":"slider", "min":0, "max":1, "step":0.01}'
+    - '@property {float} pressDownStrength = 0.1 {"label":"Press", "widget":"slider", "min":0, "max":1, "step":0.01}'
+    - '@property {float} nudgeStrength = 0.1 {"label":"Nudge", "widget":"slider", "min":0, "max":1, "step":0.01}'
+    - '@property {bool} pressLight = true {"label":"Show light on press"}'
+    - '@property {bool} hoverLight = true {"label":"Show light on hover"}'
+    - '@property {bool} constantStretch {"label":"Strecth every angle"}'
+    - "*/"
+    - // @input TouchSettings touchSettings
+    - '// @ui {"widget":"separator"}'
+    - /*
+    - "@typedef ShapeSettings"
+    - "@property {vec2} shapeScale = {1,1}"
+    - '@property {vec2} shapePosition = {0,0} {"widget":"spinbox", "min":-100, "max":100, "step":0.001}'
+    - '@ui {"widget":"label", "label":""}'
+    - '@property {float} shapeSoftness = 0.4 {"widget":"slider", "min":0, "max":1, "step":0.01}'
+    - '@property {vec4} cornerRadius = {0.25,0.25,0.25,0.25} {"widget":"slider", "min":0, "max":1, "step":0.01}'
+    - "*/"
+    - // @input ShapeSettings shapeSettings
+    - '// @ui {"widget":"separator"}'
+    - '// @ui {"widget":"group_start", "label":"Remap Touch Boundries"}'
+    - "// @ui {\"widget\":\"label\", \"label\":\"<p style='color: #3E434E; background-color: #818C9A; text-align: center;'>Boundry of button shape: <em><strong>[-1, 1, -1, 1]</strong></em><br>You need to remap these values to boundry of your menu<br>v</p>\"}"
+    - "// @input vec2 min = {-1,-1}"
+    - "// @input vec2 max = {1,1}"
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"separator"}'
+    - /*
+    - "@typedef SelectedIconSetup"
+    - '@property {float} selectorMagnification {"label":"Icon Magnification"}'
+    - '@property {Asset.Texture} icon1 {"label":"Icon Set"}'
+    - '@property {bool} useColorAlt {"label":"Mono Color"}'
+    - '@property {vec3} iconColorAlt = {0,0,0} {"widget":"color", "showIf":"useColorAlt"}'
+    - '@property {float} colorChannelAlt {"widget":"slider", "min":0, "max":3, "step":1, "showIf":"useColorAlt"}'
+    - "*/"
+    - // @input SelectedIconSetup selectedIconsSetup
+    - '// @ui {"widget":"separator"}'
+    - '// @input float buttonType {"widget":"combobox", "values":[{"label":"Default", "value":0}, {"label":"Switch", "value":1}, {"label":"Slider", "value":2}]}'
+    - // @input bool useCustomTouchArea
+    - /*
+    - "@typedef CustomBaseInteraction"
+    - "@property {bool} debugOnScreen"
+    - '@property {vec2} position = {0,0} {"widget":"spinbox", "min":-100, "max":100, "step":0.001}'
+    - '@property {vec2} scale = {1,1} {"widget":"spinbox", "min":-100, "max":100, "step":0.001}'
+    - "*/"
+    - '// @input CustomBaseInteraction customBaseInteraction {"showIf":"useCustomTouchArea"}'
+    - // @input Asset.Material material
+    - // @input Asset.Material debugMaterial
+    - // @input Asset.Texture invisibleTex

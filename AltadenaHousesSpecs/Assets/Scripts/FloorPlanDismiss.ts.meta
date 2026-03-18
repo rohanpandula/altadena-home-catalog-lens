@@ -1,0 +1,53 @@
+- !<AssetImportMetadata/e7023094-866c-434d-bb66-0be0083a2659>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 40575159-bf30-48df-8983-365243c68782
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 40575159-bf30-48df-8983-365243c68782
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 6995b211-fb7d-4ba5-aa9b-bb955cf05573
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/6995b211-fb7d-4ba5-aa9b-bb955cf05573>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 6d74a60e-f5bf-4fcb-a177-949f6ab22347
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    backButton: false
+    catalogManager: false
+    nextButton: false
+    prevButton: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - catalogManager: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      prevButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      nextButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      backButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input Component.ScriptComponent catalogManager {"hint":"The CatalogManager script component"}'
+    - '// @input SceneObject prevButton {"hint":"SceneObject for the Prev button text"}'
+    - '// @input SceneObject nextButton {"hint":"SceneObject for the Next button text"}'
+    - '// @input SceneObject backButton {"hint":"SceneObject for the Back button text"}'

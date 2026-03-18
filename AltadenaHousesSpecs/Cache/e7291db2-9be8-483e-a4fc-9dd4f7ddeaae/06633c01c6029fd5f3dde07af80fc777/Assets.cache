@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    8a56d9ca-2170-41b7-985e-ace00ced8dff: e7291db2-9be8-483e-a4fc-9dd4f7ddeaae/06633c01c6029fd5f3dde07af80fc777/Data/15_la_solana.jpg
+  Assets:
+    - !<FileTexture/8a56d9ca-2170-41b7-985e-ace00ced8dff>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 330
+  SourceHash: 06633c01c6029fd5f3dde07af80fc777
+  FileHash: 0a6c4eaa5b1a8437d1bb8983e73ef22e
+  NativePackageItems:
+    []

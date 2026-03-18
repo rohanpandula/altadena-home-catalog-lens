@@ -1,0 +1,67 @@
+- !<AssetImportMetadata/dc94df43-ed90-4c88-bd37-c6432871bbdc>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 3aa8da31-c467-4ec7-b4df-192e5340d5f8
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 3aa8da31-c467-4ec7-b4df-192e5340d5f8
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> bc5a3cfb-489a-4711-afea-6cf943acdb03
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/bc5a3cfb-489a-4711-afea-6cf943acdb03>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: d9416ec1-abae-4199-81a0-558bb5d05e7c
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    cardStripRoot: false
+    elevationTextures: false
+    floorPlanCounter: false
+    floorPlanDetails: false
+    floorPlanDisplay: false
+    floorPlanMesh: false
+    floorPlanTextures: false
+    floorPlanTitle: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - elevationTextures: !<reference.Texture[]>
+        []
+      floorPlanTextures: !<reference.Texture[]>
+        []
+      cardStripRoot: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      floorPlanDisplay: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      floorPlanMesh: !<reference.RenderMeshVisual> 00000000-0000-0000-0000-000000000000
+      floorPlanTitle: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      floorPlanDetails: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      floorPlanCounter: !<reference.Text> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input Asset.Texture[] elevationTextures {"hint":"Elevation render textures — one per house, same order as HouseData.ts"}'
+    - '// @input Asset.Texture[] floorPlanTextures {"hint":"Floor plan textures — one per house, same order as HouseData.ts"}'
+    - '// @input SceneObject cardStripRoot {"hint":"The card strip root SceneObject (Frame)"}'
+    - '// @input SceneObject floorPlanDisplay {"hint":"The floor plan display SceneObject (starts disabled)"}'
+    - '// @input Component.RenderMeshVisual floorPlanMesh {"hint":"The RenderMeshVisual on the floor plan quad"}'
+    - '// @input Component.Text floorPlanTitle {"hint":"Text component showing the selected house name"}'
+    - '// @input Component.Text floorPlanDetails {"hint":"Text component showing house details (sqft, beds, baths)"}'
+    - '// @input Component.Text floorPlanCounter {"hint":"Text component showing \"X of Y\" counter"}'

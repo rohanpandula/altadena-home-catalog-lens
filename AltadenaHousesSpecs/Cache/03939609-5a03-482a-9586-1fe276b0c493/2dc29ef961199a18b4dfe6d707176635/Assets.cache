@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    b5bf56ef-692b-47dc-9f9a-c3c8638d21ec: 03939609-5a03-482a-9586-1fe276b0c493/2dc29ef961199a18b4dfe6d707176635/Data/10_marlowe.jpg
+  Assets:
+    - !<FileTexture/b5bf56ef-692b-47dc-9f9a-c3c8638d21ec>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 330
+  SourceHash: 2dc29ef961199a18b4dfe6d707176635
+  FileHash: 9e7f3de230820aa0d6c92e9b69b23f5f
+  NativePackageItems:
+    []

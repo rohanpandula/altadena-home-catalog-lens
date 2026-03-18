@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    a7c3df74-d985-4e80-a76f-2bb1907a3a8a: 8dad9ead-2b5d-f5fd-009d-e659afe636c6/7c04fdf0f9b82056121593a9b63bcda7/Data/07_Use invisible texture to hide icons.png
+  Assets:
+    - !<FileTexture/a7c3df74-d985-4e80-a76f-2bb1907a3a8a>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 8
+        Height: 8
+  SourceHash: 7c04fdf0f9b82056121593a9b63bcda7
+  FileHash: 41cca933802c3e803a2058269860e014
+  NativePackageItems:
+    []

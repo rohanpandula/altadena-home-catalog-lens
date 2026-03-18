@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    f290275a-c250-48fe-9579-51ccbffbb5bb: 2ae1b2c1-c19e-4e8e-878a-901cad1b251a/8c40a16f2c47af82b251f67861ebfc75/Data/fp_marlowe.jpg
+  Assets:
+    - !<FileTexture/f290275a-c250-48fe-9579-51ccbffbb5bb>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: 8c40a16f2c47af82b251f67861ebfc75
+  FileHash: c3c49b2e3f618231a237015d303dd11e
+  NativePackageItems:
+    []

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    802b83e2-89ab-47b9-b335-ac8849f52803: cbb42b6a-29cf-4e8b-8453-41a9f999a300/390465153db068f532d3e7e36f4bb401/Data/01_delaware.jpg
+  Assets:
+    - !<FileTexture/802b83e2-89ab-47b9-b335-ac8849f52803>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 165
+  SourceHash: 390465153db068f532d3e7e36f4bb401
+  FileHash: b242e999f43d69ef286de1c3cc33e07a
+  NativePackageItems:
+    []

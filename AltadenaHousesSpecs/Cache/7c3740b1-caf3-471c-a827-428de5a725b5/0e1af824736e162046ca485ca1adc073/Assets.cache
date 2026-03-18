@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    a76b57fc-bcdb-429d-8cd3-2e9e6d560e77: 7c3740b1-caf3-471c-a827-428de5a725b5/0e1af824736e162046ca485ca1adc073/Data/14_gregory.jpg
+  Assets:
+    - !<FileTexture/a76b57fc-bcdb-429d-8cd3-2e9e6d560e77>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 165
+  SourceHash: 0e1af824736e162046ca485ca1adc073
+  FileHash: 839a595b538850a4923ca9faac5ce440
+  NativePackageItems:
+    []

@@ -1,0 +1,53 @@
+- !<AssetImportMetadata/cf1200b7-aff2-4128-9403-7f0322b2e18f>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 0ec99a1c-7f58-48db-a0cc-c75036a5514b
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 0ec99a1c-7f58-48db-a0cc-c75036a5514b
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 2f56a783-88f4-48b5-9a1f-ff2d0a44b9b5
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/2f56a783-88f4-48b5-9a1f-ff2d0a44b9b5>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 8cef1a0e-5055-462f-8dbe-931fd2df1480
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    cameraObject: false
+    cardMaterial: false
+    cardMesh: false
+    catalogManager: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - catalogManager: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      cardMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      cardMesh: !<reference.RenderMesh> 00000000-0000-0000-0000-000000000000
+      cameraObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input Component.ScriptComponent catalogManager {"hint":"The CatalogManager script component"}'
+    - '// @input Asset.Material cardMaterial {"hint":"Unlit material to clone for card images"}'
+    - '// @input Asset.RenderMesh cardMesh {"hint":"Plane mesh for card images"}'
+    - '// @input SceneObject cameraObject {"hint":"Camera SceneObject for raycasting"}'

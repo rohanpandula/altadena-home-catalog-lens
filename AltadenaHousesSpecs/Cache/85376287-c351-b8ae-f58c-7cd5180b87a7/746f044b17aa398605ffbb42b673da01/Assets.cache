@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    f6f50fbc-555b-42ff-b3d8-e8a8a16793bc: 85376287-c351-b8ae-f58c-7cd5180b87a7/746f044b17aa398605ffbb42b673da01/Data/05_Icons can be updated in runtime.png
+  Assets:
+    - !<FileTexture/f6f50fbc-555b-42ff-b3d8-e8a8a16793bc>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 746f044b17aa398605ffbb42b673da01
+  FileHash: e0bc63c3f27a3323399f2cd713290ffb
+  NativePackageItems:
+    []

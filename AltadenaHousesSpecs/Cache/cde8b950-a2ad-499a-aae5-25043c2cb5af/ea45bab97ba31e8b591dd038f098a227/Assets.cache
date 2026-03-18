@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    35ce9e10-b195-4563-9417-f80735cf367c: cde8b950-a2ad-499a-aae5-25043c2cb5af/ea45bab97ba31e8b591dd038f098a227/Data/fp_monterey.jpg
+  Assets:
+    - !<FileTexture/35ce9e10-b195-4563-9417-f80735cf367c>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: ea45bab97ba31e8b591dd038f098a227
+  FileHash: 2ebc224c69885cf00638664573ba6a71
+  NativePackageItems:
+    []

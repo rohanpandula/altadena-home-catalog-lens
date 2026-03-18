@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    ca99495b-e9eb-4400-a084-a6d257062a3a: 46c4a6c4-430f-4cad-a834-805a8dbecd28/feb043752a2d42c07959bd77522ab638/Data/fp_charmant.jpg
+  Assets:
+    - !<FileTexture/ca99495b-e9eb-4400-a084-a6d257062a3a>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: feb043752a2d42c07959bd77522ab638
+  FileHash: 387aab70acca5daf168575353fd5d5a3
+  NativePackageItems:
+    []

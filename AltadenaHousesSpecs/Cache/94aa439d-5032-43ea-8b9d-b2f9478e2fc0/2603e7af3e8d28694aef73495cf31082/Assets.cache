@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    287eeb8a-f4b2-4af2-94ea-424e55f483cb: 94aa439d-5032-43ea-8b9d-b2f9478e2fc0/2603e7af3e8d28694aef73495cf31082/Data/fp_carmelina.jpg
+  Assets:
+    - !<FileTexture/287eeb8a-f4b2-4af2-94ea-424e55f483cb>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: 2603e7af3e8d28694aef73495cf31082
+  FileHash: d7b7bcfa8562bef393992423d7dc7dcd
+  NativePackageItems:
+    []

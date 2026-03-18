@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    604ed62a-285a-4e5e-843d-f114de22528c: 1fc57f6d-ec53-4748-938b-25d3fcc5fb37/43f31203a8529005730ba5335a36b274/Data/fp_montana.jpg
+  Assets:
+    - !<FileTexture/604ed62a-285a-4e5e-843d-f114de22528c>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 43f31203a8529005730ba5335a36b274
+  FileHash: 437430c66bfc011f3ca6cf369f8fa9af
+  NativePackageItems:
+    []

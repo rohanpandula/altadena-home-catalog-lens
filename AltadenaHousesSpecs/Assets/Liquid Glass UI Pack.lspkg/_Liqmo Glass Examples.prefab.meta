@@ -1,0 +1,1394 @@
+- !<AssetImportMetadata/46cafef8-25c4-a2db-3ce4-d6d792bcf888>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> 8ec3be57-e87f-4347-a159-86fd6a5a4926
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> 8ec3be57-e87f-4347-a159-86fd6a5a4926
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    AssetLibraryId: 3DBq1Dy7uvKJGcq1Rg4jHB
+  AssetDataMap:
+    ObjectPrefab: !<own> d11ec6d3-2faf-4fb1-a6cb-61f0d85e1025
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptComponent/0dc12605-01fc-4b91-62df-e7fd8425d93d>
+  PrefabRemaps:
+    []
+  Name: Liqmo Selector
+  Enabled: true
+  ScriptAsset: !<reference> 9c51b798-8a00-44a3-b90e-d77d72c161b9
+  ScriptInputsDefault:
+    bindTouchToInteraction: true
+    min: true
+    max: true
+    selectedIconsSetup: true
+    useCustomTouchArea: true
+    material: true
+    debugMaterial: true
+    invisibleTex: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      renderOrder: 1
+      dampSpeed: !<float> 5.000000
+      bindTouchToInteraction: false
+      glassSettings:
+        thickness: !<float> 0.000000
+        frost: !<float> 0.000000
+        transparency: !<float> 1.000000
+        material: 0.750000
+        useTex: false
+        baseColor: !<Vec4> {x: 0.000000, y: 0.356695, z: 0.000000, w: 1.000000}
+        extraTex: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+        topLighting: false
+        lightAngle: !<float> 275.000000
+        bleed: !<float> 20.000000
+        chromaticAbbr: !<float> 0.000000
+        chromaticAbbrOnSurface: false
+        quality: 1
+      touchSettings:
+        stretchStrength: !<float> 1.000000
+        pressDownStrength: 0.500000
+        nudgeStrength: !<float> 0.000000
+        pressLight: false
+        hoverLight: false
+        constantStretch: false
+      shapeSettings:
+        shapeScale: !<Vec2> {x: 0.150000, y: 0.100000}
+        shapePosition: !<Vec2> {x: -0.010000, y: 0.000000}
+        shapeSoftness: 0.100000
+        cornerRadius: !<Vec4> {x: 0.100000, y: 0.100000, z: 0.100000, w: 0.100000}
+      min: !<Vec2> {x: -1.000000, y: -1.000000}
+      max: !<Vec2> {x: 1.000000, y: 1.000000}
+      selectedIconsSetup:
+        selectorMagnification: !<float> 0.000000
+        icon1: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+        useColorAlt: false
+        iconColorAlt: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+        colorChannelAlt: !<float> 0.000000
+      buttonType: !<float> 1.000000
+      useCustomTouchArea: false
+      customBaseInteraction:
+        debugOnScreen: false
+        position: !<Vec2> {x: 0.000000, y: 0.000000}
+        scale: !<Vec2> {x: 0.600000, y: 0.150000}
+      material: !<reference.Material> 9ad34698-46bb-4d4c-b0d8-8d1e1a15b20b
+      debugMaterial: !<reference.Material> 0557eea2-5926-44f2-be92-0ae7a12b5b4d
+      invisibleTex: !<reference.Texture> d3646801-132d-421b-8a11-0944b473dbef
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/0f1cf9c6-3573-4fec-5f8f-b4b886e3c02f>
+  PrefabRemaps:
+    []
+  Name: Menu-Horizontal
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> f322eeeb-280f-4076-54b6-f1bc277098b4
+  Components:
+    - !<own> bd49f366-36d9-46de-7330-6ca6c7315cac
+    - !<own> dec8fea6-a62a-4a3f-7439-0b8763240be0
+- !<ScreenTransform/0f84119e-ae4d-48af-52a0-c6880130e570>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: false
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: -1.000000
+    bottom: -1.000000
+    right: 0.070000
+    top: 0.070000
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000
+- !<ScreenTransform/116b573d-4f61-48f1-6b90-74613b831d4c>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: false
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: -0.387647
+    bottom: 0.162353
+    right: 0.387647
+    top: 0.937647
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000
+- !<SceneObject/16650969-2756-4259-7849-95cd3b5f490f>
+  PrefabRemaps:
+    []
+  Name: Basic Button
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f044d6a9-5199-4b0a-5cf3-8e2707df2d51
+    - !<own> 81bc0ea1-8339-43e6-7a3e-87c6c752660a
+- !<ScriptComponent/2f4bd692-0689-4baa-7c60-d06d4be4d39f>
+  PrefabRemaps:
+    []
+  Name: Liqmo Morph Button
+  Enabled: true
+  ScriptAsset: !<reference> b359e98e-d409-4935-8da6-e25b96c8c6dd
+  ScriptInputsDefault:
+    renderOrder: true
+    bindTouchToInteraction: true
+    material: true
+    debugMaterial: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      renderOrder: 0
+      dampSpeed: !<float> 5.000000
+      bindTouchToInteraction: false
+      glassSettings:
+        thickness: 0.400000
+        frost: !<float> 1.000000
+        transparency: !<float> 1.000000
+        material: !<float> 1.000000
+        useTex: false
+        baseColor: !<Vec4> {x: 0.168627, y: 0.101762, z: 0.097124, w: 1.000000}
+        extraTex: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+        topLighting: false
+        lightAngle: !<float> 1.000000
+        bleed: !<float> 10.000000
+        chromaticAbbr: !<float> 1.000000
+        chromaticAbbrOnSurface: false
+        quality: 10
+      touchSettings:
+        stretchStrength: 0.350000
+        pressDownStrength: !<float> 0.000000
+        nudgeStrength: 0.100000
+        pressLight: false
+        hoverLight: true
+        constantStretch: true
+      interactions:
+        debugOnScreen: false
+        addInteraction:
+          - id: ToggleOn
+            groupId: Toggle
+            position: !<Vec2> {x: 0.000000, y: 0.000000}
+            scale: !<Vec2> {x: 0.500000, y: 0.500000}
+            enabled: true
+          - id: ToggleOff
+            groupId: Toggle
+            position: !<Vec2> {x: -0.130000, y: 0.000000}
+            scale: !<Vec2> {x: 0.500000, y: 0.500000}
+            enabled: false
+          - id: Choice1
+            groupId: Menu
+            position: !<Vec2> {x: 0.040000, y: 0.000000}
+            scale: !<Vec2> {x: 0.400000, y: 0.400000}
+            enabled: false
+          - id: Choice2
+            groupId: Menu
+            position: !<Vec2> {x: 0.160000, y: 0.000000}
+            scale: !<Vec2> {x: 0.400000, y: 0.400000}
+            enabled: false
+      shapeSettings:
+        shapeScale: !<Vec2> {x: 0.500000, y: 0.500000}
+        shapePosition: !<Vec2> {x: 0.000000, y: 0.000000}
+        shapeSoftness: 0.100000
+        cornerRadius: !<Vec4> {x: 0.500000, y: 0.500000, z: 0.500000, w: 0.500000}
+        childScale: !<Vec2> {x: 0.300000, y: 0.300000}
+        childOffset: !<Vec2> {x: 0.000000, y: 0.000000}
+        childRadius: !<Vec4> {x: 0.300000, y: 0.300000, z: 0.300000, w: 0.300000}
+      icon0: !<reference.Texture> 45bad585-ef0c-4bd0-806a-bbeab54d6ca0
+      icon1: !<reference.Texture> a7c3df74-d985-4e80-a76f-2bb1907a3a8a
+      iconSettings:
+        iconScale: 1.200000
+        iconPosition: !<Vec2> {x: 0.000000, y: 0.000000}
+        maxBlur: !<float> 10.000000
+        useColor: false
+        iconColor: !<Vec3> {x: 1.000000, y: 0.254978, z: 0.252171}
+        colorChannel: !<float> 3.000000
+      material: !<reference.Material> 356c1379-8ce6-4eb0-a28a-9344bfda7fe2
+      debugMaterial: !<reference.Material> bc0d1e96-df8c-4baa-bf74-f1868127e0f5
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/32c011b7-6d80-4607-47f8-be5dd104aae7>
+  PrefabRemaps:
+    []
+  Name: Morphing Mappable Button
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 116b573d-4f61-48f1-6b90-74613b831d4c
+    - !<own> 2f4bd692-0689-4baa-7c60-d06d4be4d39f
+- !<ScreenTransform/40f90660-fc2b-4589-680d-d0e461e498e3>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: false
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: 0.200000
+    bottom: -0.100000
+    right: 0.800000
+    top: 0.500000
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000
+- !<SceneObject/43ac4180-3cb3-4cfe-7e2f-50e1d11a8096>
+  PrefabRemaps:
+    []
+  Name: Menu-Vertical
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 7efc9a78-7ea4-43e1-4882-c95c1546a13a
+  Components:
+    - !<own> 0f84119e-ae4d-48af-52a0-c6880130e570
+    - !<own> f6de8033-f182-4a6f-6058-35097f7b36fb
+- !<ScriptComponent/4455594c-8c74-4b9e-7dbd-554c281c08d6>
+  PrefabRemaps:
+    []
+  Name: Liqmo Selector
+  Enabled: true
+  ScriptAsset: !<reference> 9c51b798-8a00-44a3-b90e-d77d72c161b9
+  ScriptInputsDefault:
+    bindTouchToInteraction: true
+    glassSettings: true
+    min: true
+    max: true
+    buttonType: true
+    useCustomTouchArea: true
+    material: true
+    debugMaterial: true
+    invisibleTex: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      renderOrder: 1
+      dampSpeed: !<float> 5.000000
+      bindTouchToInteraction: false
+      glassSettings:
+        thickness: !<float> 0.000000
+        frost: !<float> 0.000000
+        transparency: !<float> 1.000000
+        material: 0.700000
+        useTex: false
+        baseColor: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+        extraTex: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+        topLighting: false
+        lightAngle: !<float> 1.000000
+        bleed: !<float> 10.000000
+        chromaticAbbr: !<float> 0.000000
+        chromaticAbbrOnSurface: false
+        quality: 1
+      touchSettings:
+        stretchStrength: !<float> 1.000000
+        pressDownStrength: !<float> 1.000000
+        nudgeStrength: 0.100000
+        pressLight: false
+        hoverLight: false
+        constantStretch: false
+      shapeSettings:
+        shapeScale: !<Vec2> {x: 0.160000, y: 0.100000}
+        shapePosition: !<Vec2> {x: 0.000000, y: 0.000000}
+        shapeSoftness: 0.100000
+        cornerRadius: !<Vec4> {x: 0.100000, y: 0.100000, z: 0.100000, w: 0.100000}
+      min: !<Vec2> {x: -1.000000, y: -1.000000}
+      max: !<Vec2> {x: 1.000000, y: 1.000000}
+      selectedIconsSetup:
+        selectorMagnification: 0.500000
+        icon1: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+        useColorAlt: false
+        iconColorAlt: !<Vec3> {x: 1.000000, y: 1.000000, z: 1.000000}
+        colorChannelAlt: !<float> 3.000000
+      buttonType: !<float> 0.000000
+      useCustomTouchArea: false
+      customBaseInteraction:
+        debugOnScreen: false
+        position: !<Vec2> {x: 0.000000, y: 0.000000}
+        scale: !<Vec2> {x: 0.600000, y: 0.150000}
+      material: !<reference.Material> 9ad34698-46bb-4d4c-b0d8-8d1e1a15b20b
+      debugMaterial: !<reference.Material> 0557eea2-5926-44f2-be92-0ae7a12b5b4d
+      invisibleTex: !<reference.Texture> d3646801-132d-421b-8a11-0944b473dbef
+  ScriptTypes:
+    "":
+      {}
+- !<ScreenTransform/449adecb-b42b-431b-5e0c-faacd595215b>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: false
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: -0.350000
+    bottom: -1.750000
+    right: 1.250000
+    top: 0.250000
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000
+- !<SceneObject/47873ee1-1684-42e5-6f6e-5ce07a20ea98>
+  PrefabRemaps:
+    []
+  Name: Basic Mappable Button
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 40f90660-fc2b-4589-680d-d0e461e498e3
+    - !<own> c2f06680-769b-415f-4555-21c7ca67feb4
+- !<SceneObject/5592c679-0e0d-428a-6a67-3cf6076698e9>
+  PrefabRemaps:
+    []
+  Name: LG_Selector
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 0dc12605-01fc-4b91-62df-e7fd8425d93d
+- !<ScriptComponent/5d4bb69d-d053-4653-562b-967777659133>
+  PrefabRemaps:
+    []
+  Name: User Interaction Examples
+  Enabled: true
+  ScriptAsset: !<reference> 6a189083-5d03-4267-81bd-9fc1cb22a4de
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      BasicButton: !<reference.ScriptComponent> 81bc0ea1-8339-43e6-7a3e-87c6c752660a
+      viewPacked: !<reference.Texture> 54cb11b0-39b0-4194-aaa9-b4b60cd5f291
+      BasicButtonExpandable: !<reference.ScriptComponent> c2f06680-769b-415f-4555-21c7ca67feb4
+      menuSet: !<reference.Texture> 35bfab34-b017-4443-ad92-3e128c971228
+      menu: !<reference.Texture> f6f50fbc-555b-42ff-b3d8-e8a8a16793bc
+      PopupMenu: !<reference.ScriptComponent> 2f4bd692-0689-4baa-7c60-d06d4be4d39f
+      viewOn: !<reference.Texture> 45bad585-ef0c-4bd0-806a-bbeab54d6ca0
+      viewOff: !<reference.Texture> f83d67cb-50f8-498f-ba27-7acf159feffe
+      menuDouble: !<reference.Texture> 155f71ab-bbe3-4d83-aeaf-f8dce4ec826b
+      VerticalMenuWithSelector: !<reference.ScriptComponent> f6de8033-f182-4a6f-6058-35097f7b36fb
+      HorizontalMenuWithSelector: !<reference.ScriptComponent> dec8fea6-a62a-4a3f-7439-0b8763240be0
+      Slider: !<reference.ScriptComponent> 62ee499f-2ccf-4e65-775d-22ca790232cc
+      Switch: !<reference.ScriptComponent> ee3367bc-6539-4e7f-4f98-dfd3b69d8965
+  ScriptTypes:
+    "":
+      {}
+- !<ScriptComponent/5f412dfe-a1ca-43a8-755c-fc8cec40c276>
+  PrefabRemaps:
+    []
+  Name: Liqmo Selector
+  Enabled: true
+  ScriptAsset: !<reference> 9c51b798-8a00-44a3-b90e-d77d72c161b9
+  ScriptInputsDefault:
+    bindTouchToInteraction: true
+    min: true
+    max: true
+    selectedIconsSetup: true
+    material: true
+    debugMaterial: true
+    invisibleTex: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      renderOrder: 5
+      dampSpeed: !<float> 5.000000
+      bindTouchToInteraction: false
+      glassSettings:
+        thickness: !<float> 0.000000
+        frost: !<float> 0.000000
+        transparency: !<float> 1.000000
+        material: !<float> 1.000000
+        useTex: false
+        baseColor: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+        extraTex: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+        topLighting: false
+        lightAngle: !<float> 275.000000
+        bleed: !<float> 20.000000
+        chromaticAbbr: !<float> 0.000000
+        chromaticAbbrOnSurface: false
+        quality: 1
+      touchSettings:
+        stretchStrength: !<float> 1.000000
+        pressDownStrength: 0.500000
+        nudgeStrength: 0.100000
+        pressLight: false
+        hoverLight: false
+        constantStretch: true
+      shapeSettings:
+        shapeScale: !<Vec2> {x: 0.160000, y: 0.100000}
+        shapePosition: !<Vec2> {x: 0.000000, y: 0.000000}
+        shapeSoftness: 0.100000
+        cornerRadius: !<Vec4> {x: 0.100000, y: 0.100000, z: 0.100000, w: 0.100000}
+      min: !<Vec2> {x: -1.000000, y: -1.000000}
+      max: !<Vec2> {x: 1.000000, y: 1.000000}
+      selectedIconsSetup:
+        selectorMagnification: !<float> 0.000000
+        icon1: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+        useColorAlt: false
+        iconColorAlt: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+        colorChannelAlt: !<float> 0.000000
+      buttonType: !<float> 2.000000
+      useCustomTouchArea: true
+      customBaseInteraction:
+        debugOnScreen: false
+        position: !<Vec2> {x: 0.000000, y: 0.000000}
+        scale: !<Vec2> {x: 0.600000, y: 0.150000}
+      material: !<reference.Material> 9ad34698-46bb-4d4c-b0d8-8d1e1a15b20b
+      debugMaterial: !<reference.Material> 0557eea2-5926-44f2-be92-0ae7a12b5b4d
+      invisibleTex: !<reference.Texture> d3646801-132d-421b-8a11-0944b473dbef
+  ScriptTypes:
+    "":
+      {}
+- !<ScriptComponent/62ee499f-2ccf-4e65-775d-22ca790232cc>
+  PrefabRemaps:
+    []
+  Name: Liqmo Basic Button
+  Enabled: true
+  ScriptAsset: !<reference> 6d158c39-646a-4dd1-8f43-4a6d08276983
+  ScriptInputsDefault:
+    renderOrder: true
+    dampSpeed: true
+    bindTouchToInteraction: true
+    material: true
+    debugMaterial: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      renderOrder: 0
+      dampSpeed: !<float> 10.000000
+      bindTouchToInteraction: false
+      glassSettings:
+        thickness: !<float> 3.000000
+        frost: !<float> 0.000000
+        transparency: !<float> 0.000000
+        material: 0.810000
+        useTex: true
+        baseColor: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+        extraTex: !<reference.Texture> 9002f986-da14-429f-8d8a-f8efd4efb6fe
+        topLighting: false
+        lightAngle: !<float> 86.000000
+        bleed: !<float> 20.000000
+        chromaticAbbr: !<float> 1.000000
+        chromaticAbbrOnSurface: false
+        quality: 1
+      touchSettings:
+        stretchStrength: 0.020000
+        pressDownStrength: !<float> 0.000000
+        nudgeStrength: 0.020000
+        pressLight: false
+        hoverLight: false
+        constantStretch: false
+      interactions:
+        debugOnScreen: false
+        addInteraction:
+          - id: startPoint
+            groupId: ""
+            position: !<Vec2> {x: -0.060000, y: 0.000000}
+            scale: !<Vec2> {x: 0.120000, y: 0.120000}
+            enabled: true
+          - id: endPoint
+            groupId: ""
+            position: !<Vec2> {x: 0.060000, y: 0.000000}
+            scale: !<Vec2> {x: 0.120000, y: 0.120000}
+            enabled: true
+          - id: interactionArea
+            groupId: ""
+            position: !<Vec2> {x: 0.000000, y: 0.000000}
+            scale: !<Vec2> {x: 0.600000, y: 0.120000}
+            enabled: true
+      shapeSettings:
+        shapeScale: !<Vec2> {x: 0.600000, y: 0.020000}
+        shapePosition: !<Vec2> {x: 0.000000, y: 0.000000}
+        shapeSoftness: 0.030000
+        cornerRadius: !<Vec4> {x: 0.020000, y: 0.020000, z: 0.020000, w: 0.020000}
+      icon0: !<reference.Texture> a7c3df74-d985-4e80-a76f-2bb1907a3a8a
+      iconSettings:
+        iconScale: !<float> 1.000000
+        iconPosition: !<Vec2> {x: 0.000000, y: 0.000000}
+        maxBlur: !<float> 0.000000
+        useColor: false
+        iconColor: !<Vec3> {x: 1.000000, y: 1.000000, z: 1.000000}
+        colorChannel: !<float> 3.000000
+      material: !<reference.Material> 82cf6155-8150-4ba9-80a3-3333b7796ea8
+      debugMaterial: !<reference.Material> 49fe6dd7-3215-4e01-b004-5aef23dc37b5
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/7efc9a78-7ea4-43e1-4882-c95c1546a13a>
+  PrefabRemaps:
+    []
+  Name: Basic Button 2
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> d72df63c-8690-4304-54bf-f5684628ce27
+    - !<own> fa8244f0-3342-4cd7-6b77-3da2be481f4f
+- !<ScriptComponent/81bc0ea1-8339-43e6-7a3e-87c6c752660a>
+  PrefabRemaps:
+    []
+  Name: Liqmo Basic Button
+  Enabled: true
+  ScriptAsset: !<reference> 6d158c39-646a-4dd1-8f43-4a6d08276983
+  ScriptInputsDefault:
+    renderOrder: true
+    dampSpeed: true
+    material: true
+    debugMaterial: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      renderOrder: 0
+      dampSpeed: !<float> 10.000000
+      bindTouchToInteraction: true
+      glassSettings:
+        thickness: !<float> 1.000000
+        frost: !<float> 1.000000
+        transparency: !<float> 1.000000
+        material: 0.800000
+        useTex: false
+        baseColor: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+        extraTex: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+        topLighting: false
+        lightAngle: !<float> 86.000000
+        bleed: !<float> 10.000000
+        chromaticAbbr: !<float> 1.000000
+        chromaticAbbrOnSurface: false
+        quality: 10
+      touchSettings:
+        stretchStrength: !<float> 1.000000
+        pressDownStrength: 0.200000
+        nudgeStrength: 0.200000
+        pressLight: true
+        hoverLight: false
+        constantStretch: false
+      interactions:
+        debugOnScreen: false
+        addInteraction:
+          - id: mainButton
+            groupId: main
+            position: !<Vec2> {x: 0.000000, y: 0.000000}
+            scale: !<Vec2> {x: 1.000000, y: 1.000000}
+            enabled: true
+      shapeSettings:
+        shapeScale: !<Vec2> {x: 1.000000, y: 1.000000}
+        shapePosition: !<Vec2> {x: 0.000000, y: 0.000000}
+        shapeSoftness: 0.100000
+        cornerRadius: !<Vec4> {x: 0.200000, y: 0.200000, z: 0.200000, w: 0.200000}
+      icon0: !<reference.Texture> 54cb11b0-39b0-4194-aaa9-b4b60cd5f291
+      iconSettings:
+        iconScale: 1.500000
+        iconPosition: !<Vec2> {x: 0.000000, y: 0.000000}
+        maxBlur: 6.040000
+        useColor: true
+        iconColor: !<Vec3> {x: 1.000000, y: 0.238697, z: 0.267735}
+        colorChannel: !<float> 0.000000
+      material: !<reference.Material> 82cf6155-8150-4ba9-80a3-3333b7796ea8
+      debugMaterial: !<reference.Material> 49fe6dd7-3215-4e01-b004-5aef23dc37b5
+  ScriptTypes:
+    "":
+      {}
+- !<ScreenTransform/901fb2e4-c35a-44c2-58b2-30d6823e5ca5>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: false
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: -0.350000
+    bottom: -1.400000
+    right: 1.250000
+    top: 0.400000
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000
+- !<ScreenTransform/a2351409-09ba-4533-5324-df95934fba40>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: false
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: -1.000000
+    bottom: -0.570000
+    right: 1.000000
+    top: 0.850000
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000
+- !<ScreenTransform/bd49f366-36d9-46de-7330-6ca6c7315cac>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: false
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: -0.350000
+    bottom: -1.000000
+    right: 1.250000
+    top: 0.600000
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000
+- !<ScriptComponent/c2f06680-769b-415f-4555-21c7ca67feb4>
+  PrefabRemaps:
+    []
+  Name: Liqmo Basic Button
+  Enabled: true
+  ScriptAsset: !<reference> 6d158c39-646a-4dd1-8f43-4a6d08276983
+  ScriptInputsDefault:
+    renderOrder: true
+    dampSpeed: true
+    bindTouchToInteraction: true
+    material: true
+    debugMaterial: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      renderOrder: 0
+      dampSpeed: !<float> 10.000000
+      bindTouchToInteraction: false
+      glassSettings:
+        thickness: 0.400000
+        frost: !<float> 1.000000
+        transparency: !<float> 1.000000
+        material: 0.700000
+        useTex: false
+        baseColor: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+        extraTex: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+        topLighting: false
+        lightAngle: !<float> 1.000000
+        bleed: !<float> 10.000000
+        chromaticAbbr: !<float> 1.000000
+        chromaticAbbrOnSurface: false
+        quality: 10
+      touchSettings:
+        stretchStrength: 0.300000
+        pressDownStrength: 0.210000
+        nudgeStrength: 0.160000
+        pressLight: false
+        hoverLight: false
+        constantStretch: false
+      interactions:
+        debugOnScreen: false
+        addInteraction:
+          - id: Open
+            groupId: Main
+            position: !<Vec2> {x: 0.000000, y: 0.000000}
+            scale: !<Vec2> {x: 0.500000, y: 0.500000}
+            enabled: true
+          - id: Choice1
+            groupId: Menu
+            position: !<Vec2> {x: -0.050000, y: 0.050000}
+            scale: !<Vec2> {x: 0.400000, y: 0.400000}
+            enabled: false
+          - id: Choice2
+            groupId: Menu
+            position: !<Vec2> {x: -0.050000, y: -0.050000}
+            scale: !<Vec2> {x: 0.400000, y: 0.400000}
+            enabled: false
+          - id: Choice3
+            groupId: Menu
+            position: !<Vec2> {x: 0.050000, y: 0.050000}
+            scale: !<Vec2> {x: 0.400000, y: 0.400000}
+            enabled: false
+          - id: Close
+            groupId: Menu
+            position: !<Vec2> {x: 0.050000, y: -0.050000}
+            scale: !<Vec2> {x: 0.400000, y: 0.400000}
+            enabled: false
+      shapeSettings:
+        shapeScale: !<Vec2> {x: 0.500000, y: 0.500000}
+        shapePosition: !<Vec2> {x: 0.000000, y: 0.000000}
+        shapeSoftness: 0.100000
+        cornerRadius: !<Vec4> {x: 0.500000, y: 0.500000, z: 0.500000, w: 0.500000}
+      icon0: !<reference.Texture> f6f50fbc-555b-42ff-b3d8-e8a8a16793bc
+      iconSettings:
+        iconScale: !<float> 4.000000
+        iconPosition: !<Vec2> {x: 0.000000, y: 0.000000}
+        maxBlur: !<float> 5.000000
+        useColor: false
+        iconColor: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+        colorChannel: !<float> 0.000000
+      material: !<reference.Material> 82cf6155-8150-4ba9-80a3-3333b7796ea8
+      debugMaterial: !<reference.Material> 49fe6dd7-3215-4e01-b004-5aef23dc37b5
+  ScriptTypes:
+    "":
+      {}
+- !<ScreenRegionComponent/ce45c373-75bd-43fb-7f75-0edf57230a18>
+  PrefabRemaps:
+    []
+  Name: Screen Region
+  Enabled: true
+  ScreenRegionType: SafeRender
+  ResizeWithKeyboard: false
+- !<SceneObject/ceeea4f0-755e-4e0d-5b3d-c32f336c3936>
+  PrefabRemaps:
+    []
+  Name: LG_Selector
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5f412dfe-a1ca-43a8-755c-fc8cec40c276
+- !<SceneObject/d0694b22-6d2a-424e-6cdb-215defabbbb8>
+  PrefabRemaps:
+    []
+  Name: Switch
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 5592c679-0e0d-428a-6a67-3cf6076698e9
+  Components:
+    - !<own> 449adecb-b42b-431b-5e0c-faacd595215b
+    - !<own> ee3367bc-6539-4e7f-4f98-dfd3b69d8965
+- !<ObjectPrefabAssetData/d11ec6d3-2faf-4fb1-a6cb-61f0d85e1025>
+  Prototype: !<ObjectOwner/5256346a-b9b7-4ed9-949f-4734ee0b837b>
+    PackagePath: ""
+    objects:
+      - !<own> fdc3c0b0-d334-47d8-65b0-147818399426
+- !<ScreenTransform/d72df63c-8690-4304-54bf-f5684628ce27>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: false
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: -1.000000
+    bottom: -1.000000
+    right: 1.000000
+    top: 1.000000
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000
+- !<ScriptComponent/dec8fea6-a62a-4a3f-7439-0b8763240be0>
+  PrefabRemaps:
+    []
+  Name: Liqmo Basic Button
+  Enabled: true
+  ScriptAsset: !<reference> 6d158c39-646a-4dd1-8f43-4a6d08276983
+  ScriptInputsDefault:
+    renderOrder: true
+    dampSpeed: true
+    bindTouchToInteraction: true
+    material: true
+    debugMaterial: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      renderOrder: 0
+      dampSpeed: !<float> 10.000000
+      bindTouchToInteraction: false
+      glassSettings:
+        thickness: !<float> 3.000000
+        frost: !<float> 0.000000
+        transparency: !<float> 1.000000
+        material: 0.700000
+        useTex: false
+        baseColor: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+        extraTex: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+        topLighting: false
+        lightAngle: !<float> 86.000000
+        bleed: !<float> 20.000000
+        chromaticAbbr: !<float> 1.000000
+        chromaticAbbrOnSurface: false
+        quality: 10
+      touchSettings:
+        stretchStrength: 0.020000
+        pressDownStrength: !<float> 0.000000
+        nudgeStrength: 0.020000
+        pressLight: false
+        hoverLight: false
+        constantStretch: false
+      interactions:
+        debugOnScreen: false
+        addInteraction:
+          - id: Left
+            groupId: ""
+            position: !<Vec2> {x: -0.047000, y: 0.000000}
+            scale: !<Vec2> {x: 0.120000, y: 0.120000}
+            enabled: true
+          - id: Middle
+            groupId: ""
+            position: !<Vec2> {x: 0.000000, y: 0.000000}
+            scale: !<Vec2> {x: 0.120000, y: 0.120000}
+            enabled: true
+          - id: Right
+            groupId: ""
+            position: !<Vec2> {x: 0.047000, y: 0.000000}
+            scale: !<Vec2> {x: 0.120000, y: 0.120000}
+            enabled: true
+      shapeSettings:
+        shapeScale: !<Vec2> {x: 0.600000, y: 0.120000}
+        shapePosition: !<Vec2> {x: 0.000000, y: 0.000000}
+        shapeSoftness: 0.050000
+        cornerRadius: !<Vec4> {x: 0.120000, y: 0.120000, z: 0.120000, w: 0.120000}
+      icon0: !<reference.Texture> 5337a51d-9c30-41b0-97b4-737b5a1169dc
+      iconSettings:
+        iconScale: 1.100000
+        iconPosition: !<Vec2> {x: 0.000000, y: 0.000000}
+        maxBlur: !<float> 0.000000
+        useColor: false
+        iconColor: !<Vec3> {x: 1.000000, y: 1.000000, z: 1.000000}
+        colorChannel: !<float> 3.000000
+      material: !<reference.Material> 82cf6155-8150-4ba9-80a3-3333b7796ea8
+      debugMaterial: !<reference.Material> 49fe6dd7-3215-4e01-b004-5aef23dc37b5
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/e37de0bc-6d8c-4682-5901-a14b890cd3aa>
+  PrefabRemaps:
+    []
+  Name: Slider
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> ceeea4f0-755e-4e0d-5b3d-c32f336c3936
+  Components:
+    - !<own> 901fb2e4-c35a-44c2-58b2-30d6823e5ca5
+    - !<own> 62ee499f-2ccf-4e65-775d-22ca790232cc
+- !<SceneObject/e3c6db8f-b65b-4568-52a3-30ae43d5f990>
+  PrefabRemaps:
+    []
+  Name: User Interaction Examples
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5d4bb69d-d053-4653-562b-967777659133
+- !<ScriptComponent/ee3367bc-6539-4e7f-4f98-dfd3b69d8965>
+  PrefabRemaps:
+    []
+  Name: Liqmo Basic Button
+  Enabled: true
+  ScriptAsset: !<reference> 6d158c39-646a-4dd1-8f43-4a6d08276983
+  ScriptInputsDefault:
+    renderOrder: true
+    dampSpeed: true
+    bindTouchToInteraction: true
+    material: true
+    debugMaterial: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      renderOrder: 0
+      dampSpeed: !<float> 10.000000
+      bindTouchToInteraction: false
+      glassSettings:
+        thickness: !<float> 3.000000
+        frost: !<float> 0.000000
+        transparency: 0.500000
+        material: !<float> 1.000000
+        useTex: false
+        baseColor: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+        extraTex: !<reference.Texture> 9002f986-da14-429f-8d8a-f8efd4efb6fe
+        topLighting: false
+        lightAngle: !<float> 86.000000
+        bleed: !<float> 20.000000
+        chromaticAbbr: !<float> 1.000000
+        chromaticAbbrOnSurface: false
+        quality: 1
+      touchSettings:
+        stretchStrength: 0.020000
+        pressDownStrength: !<float> 0.000000
+        nudgeStrength: !<float> 0.000000
+        pressLight: false
+        hoverLight: false
+        constantStretch: false
+      interactions:
+        debugOnScreen: false
+        addInteraction:
+          - id: StateOn
+            groupId: ""
+            position: !<Vec2> {x: -0.010000, y: 0.000000}
+            scale: !<Vec2> {x: 0.120000, y: 0.120000}
+            enabled: true
+          - id: StateOff
+            groupId: ""
+            position: !<Vec2> {x: 0.010000, y: 0.000000}
+            scale: !<Vec2> {x: 0.120000, y: 0.120000}
+            enabled: true
+      shapeSettings:
+        shapeScale: !<Vec2> {x: 0.250000, y: 0.120000}
+        shapePosition: !<Vec2> {x: 0.000000, y: 0.000000}
+        shapeSoftness: 0.030000
+        cornerRadius: !<Vec4> {x: 0.120000, y: 0.120000, z: 0.120000, w: 0.120000}
+      icon0: !<reference.Texture> a7c3df74-d985-4e80-a76f-2bb1907a3a8a
+      iconSettings:
+        iconScale: !<float> 1.000000
+        iconPosition: !<Vec2> {x: 0.000000, y: 0.000000}
+        maxBlur: !<float> 0.000000
+        useColor: false
+        iconColor: !<Vec3> {x: 1.000000, y: 1.000000, z: 1.000000}
+        colorChannel: !<float> 3.000000
+      material: !<reference.Material> 82cf6155-8150-4ba9-80a3-3333b7796ea8
+      debugMaterial: !<reference.Material> 49fe6dd7-3215-4e01-b004-5aef23dc37b5
+  ScriptTypes:
+    "":
+      {}
+- !<ScreenTransform/f044d6a9-5199-4b0a-5cf3-8e2707df2d51>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: false
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: -0.750000
+    bottom: -0.050000
+    right: -0.250000
+    top: 0.450000
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000
+- !<SceneObject/f322eeeb-280f-4076-54b6-f1bc277098b4>
+  PrefabRemaps:
+    []
+  Name: LG_Selector
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 4455594c-8c74-4b9e-7dbd-554c281c08d6
+- !<ScriptComponent/f6de8033-f182-4a6f-6058-35097f7b36fb>
+  PrefabRemaps:
+    []
+  Name: Liqmo Basic Button
+  Enabled: true
+  ScriptAsset: !<reference> 6d158c39-646a-4dd1-8f43-4a6d08276983
+  ScriptInputsDefault:
+    renderOrder: true
+    dampSpeed: true
+    material: true
+    debugMaterial: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      renderOrder: 0
+      dampSpeed: !<float> 10.000000
+      bindTouchToInteraction: true
+      glassSettings:
+        thickness: !<float> 3.000000
+        frost: !<float> 0.000000
+        transparency: 0.500000
+        material: 0.700000
+        useTex: false
+        baseColor: !<Vec4> {x: 0.698039, y: 0.698024, z: 0.695460, w: 1.000000}
+        extraTex: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+        topLighting: false
+        lightAngle: !<float> 86.000000
+        bleed: !<float> 20.000000
+        chromaticAbbr: !<float> 1.000000
+        chromaticAbbrOnSurface: false
+        quality: 5
+      touchSettings:
+        stretchStrength: 0.050000
+        pressDownStrength: 0.050000
+        nudgeStrength: 0.060000
+        pressLight: false
+        hoverLight: false
+        constantStretch: false
+      interactions:
+        debugOnScreen: false
+        addInteraction:
+          - id: MenuItem0
+            groupId: Section1
+            position: !<Vec2> {x: 0.000000, y: 0.104000}
+            scale: !<Vec2> {x: 0.600000, y: 0.100000}
+            enabled: true
+          - id: MenuItem1
+            groupId: Section1
+            position: !<Vec2> {x: 0.000000, y: 0.075000}
+            scale: !<Vec2> {x: 0.600000, y: 0.100000}
+            enabled: true
+          - id: MenuItem2
+            groupId: Section1
+            position: !<Vec2> {x: 0.000000, y: 0.046000}
+            scale: !<Vec2> {x: 0.600000, y: 0.100000}
+            enabled: true
+          - id: MenuItem3
+            groupId: Section2
+            position: !<Vec2> {x: 0.000000, y: 0.017000}
+            scale: !<Vec2> {x: 0.600000, y: 0.100000}
+            enabled: true
+          - id: MenuItem4
+            groupId: Section2
+            position: !<Vec2> {x: 0.000000, y: -0.012000}
+            scale: !<Vec2> {x: 0.600000, y: 0.100000}
+            enabled: true
+          - id: MenuItem5
+            groupId: Section2
+            position: !<Vec2> {x: 0.000000, y: -0.042000}
+            scale: !<Vec2> {x: 0.600000, y: 0.100000}
+            enabled: true
+          - id: MenuItem6
+            groupId: Section2
+            position: !<Vec2> {x: 0.000000, y: -0.071000}
+            scale: !<Vec2> {x: 0.600000, y: 0.100000}
+            enabled: true
+          - id: MenuItem7
+            groupId: Section2
+            position: !<Vec2> {x: 0.000000, y: -0.100000}
+            scale: !<Vec2> {x: 0.600000, y: 0.100000}
+            enabled: true
+      shapeSettings:
+        shapeScale: !<Vec2> {x: 0.750000, y: 1.250000}
+        shapePosition: !<Vec2> {x: 0.000000, y: 0.000000}
+        shapeSoftness: 0.050000
+        cornerRadius: !<Vec4> {x: 0.200000, y: 0.200000, z: 0.200000, w: 0.200000}
+      icon0: !<reference.Texture> 9997f0d4-f9fa-4069-82fd-e45f822142ce
+      iconSettings:
+        iconScale: !<float> 1.000000
+        iconPosition: !<Vec2> {x: 0.000000, y: 0.000000}
+        maxBlur: !<float> 3.000000
+        useColor: true
+        iconColor: !<Vec3> {x: 1.000000, y: 1.000000, z: 1.000000}
+        colorChannel: !<float> 3.000000
+      material: !<reference.Material> 82cf6155-8150-4ba9-80a3-3333b7796ea8
+      debugMaterial: !<reference.Material> 49fe6dd7-3215-4e01-b004-5aef23dc37b5
+  ScriptTypes:
+    "":
+      {}
+- !<ScriptComponent/fa8244f0-3342-4cd7-6b77-3da2be481f4f>
+  PrefabRemaps:
+    []
+  Name: Liqmo Selector
+  Enabled: true
+  ScriptAsset: !<reference> 9c51b798-8a00-44a3-b90e-d77d72c161b9
+  ScriptInputsDefault:
+    bindTouchToInteraction: true
+    selectedIconsSetup: true
+    buttonType: true
+    useCustomTouchArea: true
+    customBaseInteraction: true
+    material: true
+    debugMaterial: true
+    invisibleTex: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      renderOrder: 1
+      dampSpeed: !<float> 15.000000
+      bindTouchToInteraction: false
+      glassSettings:
+        thickness: !<float> 1.000000
+        frost: !<float> 1.000000
+        transparency: !<float> 0.000000
+        material: !<float> 1.000000
+        useTex: false
+        baseColor: !<Vec4> {x: 0.831373, y: 0.000000, z: 0.153323, w: 1.000000}
+        extraTex: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+        topLighting: false
+        lightAngle: !<float> 0.000000
+        bleed: !<float> 10.000000
+        chromaticAbbr: !<float> 0.000000
+        chromaticAbbrOnSurface: false
+        quality: 1
+      touchSettings:
+        stretchStrength: 0.570000
+        pressDownStrength: 0.100000
+        nudgeStrength: 0.100000
+        pressLight: false
+        hoverLight: false
+        constantStretch: true
+      shapeSettings:
+        shapeScale: !<Vec2> {x: 0.600000, y: 0.150000}
+        shapePosition: !<Vec2> {x: 0.000000, y: 0.104000}
+        shapeSoftness: !<float> 0.000000
+        cornerRadius: !<Vec4> {x: 0.150000, y: 0.150000, z: 0.150000, w: 0.150000}
+      min: !<Vec2> {x: -1.000000, y: -0.700000}
+      max: !<Vec2> {x: 1.000000, y: 0.700000}
+      selectedIconsSetup:
+        selectorMagnification: !<float> 0.000000
+        icon1: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+        useColorAlt: false
+        iconColorAlt: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+        colorChannelAlt: !<float> 0.000000
+      buttonType: !<float> 0.000000
+      useCustomTouchArea: false
+      customBaseInteraction:
+        debugOnScreen: false
+        position: !<Vec2> {x: 0.000000, y: 0.000000}
+        scale: !<Vec2> {x: 1.000000, y: 1.000000}
+      material: !<reference.Material> 9ad34698-46bb-4d4c-b0d8-8d1e1a15b20b
+      debugMaterial: !<reference.Material> 0557eea2-5926-44f2-be92-0ae7a12b5b4d
+      invisibleTex: !<reference.Texture> d3646801-132d-421b-8a11-0944b473dbef
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/fdc3c0b0-d334-47d8-65b0-147818399426>
+  PrefabRemaps:
+    []
+  Name: Liqmo Glass Examples
+  Enabled: true
+  Layers: 1048576
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 16650969-2756-4259-7849-95cd3b5f490f
+    - !<own> 47873ee1-1684-42e5-6f6e-5ce07a20ea98
+    - !<own> 32c011b7-6d80-4607-47f8-be5dd104aae7
+    - !<own> 43ac4180-3cb3-4cfe-7e2f-50e1d11a8096
+    - !<own> 0f1cf9c6-3573-4fec-5f8f-b4b886e3c02f
+    - !<own> e37de0bc-6d8c-4682-5901-a14b890cd3aa
+    - !<own> d0694b22-6d2a-424e-6cdb-215defabbbb8
+    - !<own> e3c6db8f-b65b-4568-52a3-30ae43d5f990
+  Components:
+    - !<own> a2351409-09ba-4533-5324-df95934fba40
+    - !<own> ce45c373-75bd-43fb-7f75-0edf57230a18

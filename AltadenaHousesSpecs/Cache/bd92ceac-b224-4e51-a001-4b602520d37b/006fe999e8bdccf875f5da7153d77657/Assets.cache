@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    694e4c80-7869-4cca-b817-d985f5f013b3: bd92ceac-b224-4e51-a001-4b602520d37b/006fe999e8bdccf875f5da7153d77657/Data/fp_lewis.jpg
+  Assets:
+    - !<FileTexture/694e4c80-7869-4cca-b817-d985f5f013b3>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: 006fe999e8bdccf875f5da7153d77657
+  FileHash: 9d8d3375af74bcd390fc46708f1ae8a3
+  NativePackageItems:
+    []

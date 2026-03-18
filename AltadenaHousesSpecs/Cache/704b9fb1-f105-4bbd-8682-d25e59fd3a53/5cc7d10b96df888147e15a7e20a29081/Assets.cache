@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    f0128451-0757-40a1-9dc7-c800a6b0b65b: 704b9fb1-f105-4bbd-8682-d25e59fd3a53/5cc7d10b96df888147e15a7e20a29081/Data/06_lewis.jpg
+  Assets:
+    - !<FileTexture/f0128451-0757-40a1-9dc7-c800a6b0b65b>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 296
+  SourceHash: 5cc7d10b96df888147e15a7e20a29081
+  FileHash: d6ae17014cef066ac5ae064918df7c0e
+  NativePackageItems:
+    []

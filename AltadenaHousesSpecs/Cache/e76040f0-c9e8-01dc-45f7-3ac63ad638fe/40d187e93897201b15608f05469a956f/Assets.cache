@@ -1,0 +1,551 @@
+- !<AssetCache>
+  AssetFiles:
+    {}
+  Assets:
+    []
+  SourceHash: 40d187e93897201b15608f05469a956f
+  FileHash: f87d1ba2fdc3fc0a5324a3bd0884e322
+  NativePackageItems:
+    - !<own> ad0f5b53-628e-b1b6-1444-facee7cc1d04
+    - !<own> cd410e79-9ac5-504c-9161-272317d03b49
+    - !<own> 8b017777-d537-7f8b-7548-7243e10685b7
+    - !<own> a581772e-581b-0d07-7034-76822c5ff1d8
+    - !<own> da1e0d06-1a3a-b5fb-a2bf-415325eca01c
+    - !<own> 5a516c9a-76c4-599c-4508-57ab54306a3e
+    - !<own> c57096ff-2b72-d508-49a9-d784e47a3adc
+    - !<own> 1765534c-402e-bfe6-165a-ef5057ad8116
+    - !<own> e0268b04-33b4-e072-530e-dc688f7b0af0
+    - !<own> d8e64f43-5c68-7c09-2c14-17aed6e78013
+    - !<own> cfdd3c87-59db-3921-6145-ec7f34b5fed3
+    - !<own> 27897bbc-f979-1099-8f95-c5fbc9089c80
+- !<TypeScriptAssetData/11215d02-50b4-40d9-ac2c-fb41911f5d96>
+  SvgIcon: |-
+    <?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+    <svg width="800px" height="800px" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--emojione-monotone" preserveAspectRatio="xMidYMid meet"><path d="M32 2c-10.831 0-19 4.182-19 9.727c0 1.085.084 26.614 7.423 41.579C21.396 58.282 26.316 62 32 62s10.604-3.718 11.577-8.694C50.916 38.341 51 12.813 51 11.728C51 6.182 42.831 2 32 2m17.1 9.728s-.001 3.042-.29 7.628c-.426-1.254-1.297-2.363-2.538-3.308c1.783-1.24 2.828-2.724 2.828-4.32m-3.728 13.75c-.02-.03-.024-.066-.051-.094c-.313-.339-.936-.344-1.396-.012a1.04 1.04 0 0 0-.411.583a2.384 2.384 0 0 0-.827-.155h-.001c-.446 0-.903.109-1.32.313a2.69 2.69 0 0 0-.78.597c-.537-.417-1.304-.681-2.2-.681c-.127 0-.256.006-.386.016c-.745.062-1.443.292-1.966.651a2.264 2.264 0 0 0-.783.898a2.723 2.723 0 0 0-1.477-.408c-.1 0-.203.004-.306.015c-.562.055-1.081.254-1.468.562a1.892 1.892 0 0 0-.41.463a1.898 1.898 0 0 0-1.256-.458c-.46 0-.917.146-1.285.414a1.963 1.963 0 0 0-.406.414c-.03-.072-.056-.147-.114-.209c-.312-.339-.936-.344-1.395-.011c-.078.056-.129.124-.187.189a.6.6 0 0 0-.14-.293c-.283-.306-.844-.309-1.259-.01c-.113.082-.198.18-.264.284c-5.436-1.303-8.98-4.137-8.98-7.298c0-1.721.971-3.22 2.728-4.409c3.137 1.676 7.778 2.742 12.967 2.742c5.19 0 9.831-1.066 12.967-2.742c1.757 1.189 2.728 2.689 2.728 4.409c0 1.532-.84 2.987-2.322 4.23m-14.757 4.407a.931.931 0 0 1-.539.178a.637.637 0 0 1-.474-.188c-.227-.246-.141-.642.191-.882a.93.93 0 0 1 .541-.18c.186 0 .359.063.474.188c.226.246.142.642-.193.884m2.982-.142c-.571 0-1.041-.267-1.086-.641c-.055-.411.434-.798 1.086-.863c.059-.006.119-.008.178-.008c.575 0 1.047.266 1.096.64c.049.413-.437.799-1.091.862c-.063.007-.125.01-.183.01m4.736-.44a3.727 3.727 0 0 1-.277.011c-.956 0-1.734-.401-1.793-.96c-.062-.612.763-1.179 1.844-1.267a3.78 3.78 0 0 1 .279-.011c.957 0 1.734.402 1.792.96c.064.612-.763 1.179-1.845 1.267m2.952-1.095c-.228-.363.066-.892.653-1.18c.249-.123.512-.181.748-.181c.32 0 .594.108.724.317c.227.362-.065.891-.653 1.179a1.715 1.715 0 0 1-.749.181c-.32 0-.593-.107-.723-.316M32 4.53c8.636 0 15.634 3.239 15.634 6.729c0 1.397-1.138 2.685-3.038 3.732c-2.986-1.56-7.313-2.445-12.596-2.445s-9.61.885-12.595 2.445c-1.9-1.047-3.038-2.334-3.038-3.732c0-3.49 7-6.729 15.633-6.729m0 9.422c4.537 0 8.267.664 10.959 1.811C40.138 16.885 36.271 17.58 32 17.58s-8.138-.694-10.959-1.817c2.693-1.147 6.423-1.811 10.959-1.811m-17.1-2.225c0 1.597 1.045 3.081 2.828 4.321c-1.241.944-2.112 2.054-2.538 3.308c-.289-4.587-.29-7.628-.29-7.629m26.853 40.991c-2.074 2.369-5.663 3.939-9.753 3.939c-4.089 0-7.679-1.57-9.753-3.939c-4.088-8.184-5.899-19.947-6.704-28.777c1.717 3.435 6.685 5.961 13.157 6.606c.332.357.834.563 1.376.563a2.19 2.19 0 0 0 1.282-.414c.216.004.425.017.642.017c.298 0 .59-.011.884-.018c.224.055.459.095.713.095a2.991 2.991 0 0 0 1.03-.182c.914-.072 1.8-.181 2.651-.324a4.321 4.321 0 0 0 1.164.06c.743-.061 1.441-.292 1.967-.651c.089-.062.153-.137.23-.206c.141-.043.281-.088.419-.134c.284.128.598.217.95.217c.447 0 .903-.109 1.321-.313c.722-.355 1.173-.924 1.291-1.513c1.785-1.063 3.108-2.365 3.84-3.835c-.803 8.834-2.613 20.615-6.707 28.809" fill="#000000"></path></svg>
+  SetupScript:
+    code: ""
+  Description: "**Liqmo Glass** is a shader-driven UI component that renders a configurable glass-like button. It lets you compose buttons, menus, sliders and switches to fit your UI, designed as semi-modular primitives rather than fixed widgets."
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: a8afe23c-63e4-4e6e-8d82-34b6da46efbd
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    bindTouchToInteraction: false
+    dampSpeed: false
+    glassSettings: false
+    interactions: false
+    renderOrder: false
+    touchSettings: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - renderOrder: 0
+      dampSpeed: !<float> 10.000000
+      bindTouchToInteraction: false
+      glassSettings:
+        thickness: !<float> 2.000000
+        frost: !<float> 1.000000
+        transparency: !<float> 0.000000
+        material: 0.700000
+        useTex: false
+        baseColor: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+        extraTex: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+        topLighting: false
+        lightAngle: !<float> 1.000000
+        bleed: !<float> 10.000000
+        chromaticAbbr: !<float> 1.000000
+        chromaticAbbrOnSurface: false
+        quality: 20
+      touchSettings:
+        stretchStrength: 0.100000
+        pressDownStrength: 0.100000
+        nudgeStrength: 0.100000
+        pressLight: true
+        hoverLight: true
+        constantStretch: false
+      interactions:
+        debugOnScreen: false
+        addInteraction:
+          []
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - /*
+    - "@typedef InteractionSetup"
+    - "@property {string} id"
+    - "@property {string} groupId"
+    - '@property {vec2} position = {0,0} {"widget":"spinbox", "min":-100, "max":100, "step":0.001}'
+    - '@property {vec2} scale = {1,1} {"widget":"spinbox", "min":-100, "max":100, "step":0.001}'
+    - "@property {bool} enabled = true"
+    - "*/"
+    - // @input int renderOrder
+    - // @input float dampSpeed = 10
+    - // @input bool bindTouchToInteraction
+    - '// @ui {"widget":"separator"}'
+    - /*
+    - "@typedef GlassSettings"
+    - "@property {float} thickness = 2"
+    - "@property {float} frost = 1"
+    - '@property {float} transparency {"widget":"slider", "min":0, "max":1, "step":0.01}'
+    - '@property {float} material = 0.7 {"widget":"slider", "min":0, "max":1, "step":0.01}'
+    - '@property {bool} useTex {"label":"Use Texture"}'
+    - '@property {vec4} baseColor = {0,0,0,1} {"label":"Color Tint", "widget":"color", "showIf":"useTex", "showIfValue":false}'
+    - '@property {Asset.Texture} extraTex {"label":"Texture", "showIf":"useTex"}'
+    - '@ui {"widget":"label", "label":""}'
+    - '@property {bool} topLighting {"label":"Flat Lighting"}'
+    - '@property {float} lightAngle = 1 {"widget":"slider", "min":0, "max":360, "step":1}'
+    - '@property {float} bleed = 10 {"label":"Light Bleed"}'
+    - '@ui {"widget":"label", "label":""}'
+    - '@property {float} chromaticAbbr = 1 {"label":"⚠️ Chromatic Aberration", "hint":"Higher values may impact performance"}'
+    - '@property {bool} chromaticAbbrOnSurface {"label":"⚠️ On Surface", "hint":"May impact performance"}'
+    - '@ui {"widget":"label", "label":""}'
+    - '@property {int} quality = 20 {"label":"⚠️ Render Quality", "hint":"Higher values will impact performance"}'
+    - "*/"
+    - // @input GlassSettings glassSettings
+    - '// @ui {"widget":"separator"}'
+    - /*
+    - "@typedef TouchSettings"
+    - '@property {float} stretchStrength = 0.1 {"label":"Stretch", "widget":"slider", "min":0, "max":1, "step":0.01}'
+    - '@property {float} pressDownStrength = 0.1 {"label":"Press", "widget":"slider", "min":0, "max":1, "step":0.01}'
+    - '@property {float} nudgeStrength = 0.1 {"label":"Nudge", "widget":"slider", "min":0, "max":1, "step":0.01}'
+    - '@property {bool} pressLight = true {"label":"Show light on press"}'
+    - '@property {bool} hoverLight = true {"label":"Show light on hover"}'
+    - '@property {bool} constantStretch {"label":"Strecth every angle"}'
+    - "*/"
+    - // @input TouchSettings touchSettings
+    - '// @ui {"widget":"separator"}'
+    - /*
+    - "@typedef InteractionsInput"
+    - "@property {bool} debugOnScreen"
+    - "@property {InteractionSetup[]} addInteraction"
+    - "*/"
+    - // @input InteractionsInput interactions
+- !<AssetImportMetadata/1765534c-402e-bfe6-165a-ef5057ad8116>
+  ImportedAssetIds:
+    Material: !<reference> 0557eea2-5926-44f2-be92-0ae7a12b5b4d
+  ImporterName: MaterialImporter
+  PrimaryAsset: !<reference> 0557eea2-5926-44f2-be92-0ae7a12b5b4d
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/27897bbc-f979-1099-8f95-c5fbc9089c80>
+  ImportedAssetIds:
+    Material: !<reference> 9ad34698-46bb-4d4c-b0d8-8d1e1a15b20b
+  ImporterName: MaterialImporter
+  PrimaryAsset: !<reference> 9ad34698-46bb-4d4c-b0d8-8d1e1a15b20b
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/5a516c9a-76c4-599c-4508-57ab54306a3e>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 8967659a-5e8d-4e02-beb0-faa5630a3438
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 8967659a-5e8d-4e02-beb0-faa5630a3438
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> e56566a7-357a-4e2d-8ddb-00161154d730
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/8b017777-d537-7f8b-7548-7243e10685b7>
+  ImportedAssetIds:
+    ShaderGraph: !<reference> 79b25a0e-8faf-4b67-af0b-4904014e829c
+  ImporterName: ShaderGraphPassImporter
+  PrimaryAsset: !<reference> 79b25a0e-8faf-4b67-af0b-4904014e829c
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/8b498de6-bf6d-4b19-9de4-ba109aca3ef0>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 2690d53e-4332-4806-9b31-95e991f1d1a5
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+- !<AssetImportMetadata/a581772e-581b-0d07-7034-76822c5ff1d8>
+  ImportedAssetIds:
+    Texture: !<reference> d3646801-132d-421b-8a11-0944b473dbef
+  ImporterName: FileTextureImporter
+  PrimaryAsset: !<reference> d3646801-132d-421b-8a11-0944b473dbef
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/ad0f5b53-628e-b1b6-1444-facee7cc1d04>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 9eb4917d-c70e-4bf8-a1dd-9a5a32573df4
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 9eb4917d-c70e-4bf8-a1dd-9a5a32573df4
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 11215d02-50b4-40d9-ac2c-fb41911f5d96
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/c57096ff-2b72-d508-49a9-d784e47a3adc>
+  ImportedAssetIds:
+    MarkdownAsset: !<reference> 04f8b703-2566-4a0e-97f8-cb05ccb1de3c
+  ImporterName: MarkdownAssetImporter
+  PrimaryAsset: !<reference> 04f8b703-2566-4a0e-97f8-cb05ccb1de3c
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/cd410e79-9ac5-504c-9161-272317d03b49>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 9c51b798-8a00-44a3-b90e-d77d72c161b9
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 9c51b798-8a00-44a3-b90e-d77d72c161b9
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> e592d9e1-9945-4d85-bfa6-0fc657013a27
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/cfdd3c87-59db-3921-6145-ec7f34b5fed3>
+  ImportedAssetIds:
+    ShaderGraph: !<reference> 44254ce6-bb24-4c22-ac33-fa2192c62d5e
+  ImporterName: ShaderGraphPassImporter
+  PrimaryAsset: !<reference> 44254ce6-bb24-4c22-ac33-fa2192c62d5e
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/d8e64f43-5c68-7c09-2c14-17aed6e78013>
+  ImportedAssetIds:
+    NativePackageDescriptor: !<reference> 66276ae4-8e0c-4a7b-989d-f1fbc37bc93b
+  ImporterName: NativePackageDescriptorImporter
+  PrimaryAsset: !<reference> 66276ae4-8e0c-4a7b-989d-f1fbc37bc93b
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/da1e0d06-1a3a-b5fb-a2bf-415325eca01c>
+  ImportedAssetIds:
+    Texture: !<reference> 779a2aab-b88f-41e0-bead-0b938d5a1d32
+  ImporterName: ScreenTextureImporter
+  PrimaryAsset: !<reference> 779a2aab-b88f-41e0-bead-0b938d5a1d32
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/e0268b04-33b4-e072-530e-dc688f7b0af0>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> c57b142a-4ec0-4813-9357-7d2f6b89a41e
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> c57b142a-4ec0-4813-9357-7d2f6b89a41e
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 8b498de6-bf6d-4b19-9de4-ba109aca3ef0
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/e56566a7-357a-4e2d-8ddb-00161154d730>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: This damp your value in time
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: b0019b95-d968-4f39-a6e5-ac612e6c6aa0
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 8f7e1cd3-b08f-4e6a-bafa-6faeb9ac562e
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []
+- !<TypeScriptAssetData/e592d9e1-9945-4d85-bfa6-0fc657013a27>
+  SvgIcon: |-
+    <svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" class="iconify iconify--emojione" role="img" aria-hidden="true">
+    
+     <g>
+      <title>Layer 1</title>
+      <path id="svg_1" fill="#a1b8c7" opacity="0.8" d="m32,2c-9.9,0 -18,3.8 -18,8.4c0,0 0,28 7.7,43.7c0.7,4.5 5,7.9 10.3,7.9c5.2,0 9.5,-3.4 10.3,-7.9c7.7,-15.7 7.7,-43.7 7.7,-43.7c0,-4.6 -8.1,-8.4 -18,-8.4"/>
+      <g id="svg_2" fill="#555e63">
+       <path id="svg_3" opacity="0.3" d="m32,58.3c-4.3,0 -8.1,-1.7 -10.3,-4.2c0.7,4.5 5,7.9 10.3,7.9c5.2,0 9.5,-3.4 10.3,-7.9c-2.2,2.5 -6,4.2 -10.3,4.2"/>
+       <path id="svg_4" opacity="0.3" d="m32,59c-3.4,0 -6.4,-0.9 -8.1,-2.3c0.6,2.4 4,4.3 8.1,4.3s7.5,-1.9 8.1,-4.3c-1.7,1.4 -4.7,2.3 -8.1,2.3"/>
+      </g>
+      <path id="svg_13" fill="#555e63" opacity="0.3" d="m32,2c-9.9,0 -18,3.8 -18,8.4c0,4.6 8.1,8.4 18,8.4s18,-3.8 18,-8.4c0,-4.6 -8.1,-8.4 -18,-8.4m0,14.6c-9.1,0 -16.5,-3 -16.5,-6.7s7.4,-7.2 16.5,-7.2s16.5,3.5 16.5,7.2s-7.4,6.7 -16.5,6.7"/>
+     </g>
+    </svg>
+  SetupScript:
+    code: ""
+  Description: "Liqmo Glass Selector acts as a menu highlighter and actuator for sliders/switches, providing a glass-like visual cue for selection and positioning when combined with Liqmo Glass Basic Button."
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 55de9465-968b-4cee-ba38-8cbcb1dce5dc
+  ExportUid: 203cef33-7e78-4287-ad03-9de6b3dcf960
+  PackagePolicy: CannotBeUnpacked
+  ScriptInputsHidden:
+    bindTouchToInteraction: false
+    buttonType: false
+    customBaseInteraction: false
+    dampSpeed: false
+    debugMaterial: true
+    glassSettings: false
+    invisibleTex: true
+    material: true
+    max: false
+    min: false
+    renderOrder: false
+    selectedIconsSetup: false
+    shapeSettings: false
+    touchSettings: false
+    useCustomTouchArea: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 04f8b703-2566-4a0e-97f8-cb05ccb1de3c
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - renderOrder: 0
+      dampSpeed: !<float> 10.000000
+      bindTouchToInteraction: false
+      glassSettings:
+        thickness: !<float> 0.000000
+        frost: !<float> 0.000000
+        transparency: !<float> 1.000000
+        material: 0.700000
+        useTex: false
+        baseColor: !<Vec4> {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+        extraTex: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+        topLighting: false
+        lightAngle: !<float> 1.000000
+        bleed: !<float> 10.000000
+        chromaticAbbr: !<float> 0.000000
+        chromaticAbbrOnSurface: false
+        quality: 1
+      touchSettings:
+        stretchStrength: 0.100000
+        pressDownStrength: !<float> 0.000000
+        nudgeStrength: !<float> 0.000000
+        pressLight: false
+        hoverLight: false
+        constantStretch: false
+      shapeSettings:
+        shapeScale: !<Vec2> {x: 1.000000, y: 1.000000}
+        shapePosition: !<Vec2> {x: 0.000000, y: 0.000000}
+        shapeSoftness: 0.400000
+        cornerRadius: !<Vec4> {x: 0.250000, y: 0.250000, z: 0.250000, w: 0.250000}
+      min: !<Vec2> {x: -1.000000, y: -1.000000}
+      max: !<Vec2> {x: 1.000000, y: 1.000000}
+      selectedIconsSetup:
+        selectorMagnification: !<float> 0.000000
+        icon1: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+        useColorAlt: false
+        iconColorAlt: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+        colorChannelAlt: !<float> 0.000000
+      buttonType: !<float> 0.000000
+      useCustomTouchArea: false
+      customBaseInteraction:
+        debugOnScreen: false
+        position: !<Vec2> {x: 0.000000, y: 0.000000}
+        scale: !<Vec2> {x: 1.000000, y: 1.000000}
+      material: !<reference.Material> 9ad34698-46bb-4d4c-b0d8-8d1e1a15b20b
+      debugMaterial: !<reference.Material> 0557eea2-5926-44f2-be92-0ae7a12b5b4d
+      invisibleTex: !<reference.Texture> d3646801-132d-421b-8a11-0944b473dbef
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input int renderOrder
+    - // @input float dampSpeed = 10
+    - // @input bool bindTouchToInteraction
+    - '// @ui {"widget":"separator"}'
+    - /*
+    - "@typedef GlassSettings"
+    - "@property {float} thickness = 2"
+    - "@property {float} frost = 1"
+    - '@property {float} transparency {"widget":"slider", "min":0, "max":1, "step":0.01}'
+    - '@property {float} material = 0.7 {"widget":"slider", "min":0, "max":1, "step":0.01}'
+    - '@property {bool} useTex {"label":"Use Texture"}'
+    - '@property {vec4} baseColor = {0,0,0,1} {"label":"Color Tint", "widget":"color", "showIf":"useTex", "showIfValue":false}'
+    - '@property {Asset.Texture} extraTex {"label":"Texture", "showIf":"useTex"}'
+    - '@ui {"widget":"label", "label":""}'
+    - '@property {bool} topLighting {"label":"Flat Lighting"}'
+    - '@property {float} lightAngle = 1 {"widget":"slider", "min":0, "max":360, "step":1}'
+    - '@property {float} bleed = 10 {"label":"Light Bleed"}'
+    - '@ui {"widget":"label", "label":""}'
+    - '@property {float} chromaticAbbr = 1 {"label":"⚠️ Chromatic Aberration", "hint":"Higher values may impact performance"}'
+    - '@property {bool} chromaticAbbrOnSurface {"label":"⚠️ On Surface", "hint":"May impact performance"}'
+    - '@ui {"widget":"label", "label":""}'
+    - '@property {int} quality = 20 {"label":"⚠️ Render Quality", "hint":"Higher values will impact performance"}'
+    - "*/"
+    - // @input GlassSettings glassSettings
+    - '// @ui {"widget":"separator"}'
+    - /*
+    - "@typedef TouchSettings"
+    - '@property {float} stretchStrength = 0.1 {"label":"Stretch", "widget":"slider", "min":0, "max":1, "step":0.01}'
+    - '@property {float} pressDownStrength = 0.1 {"label":"Press", "widget":"slider", "min":0, "max":1, "step":0.01}'
+    - '@property {float} nudgeStrength = 0.1 {"label":"Nudge", "widget":"slider", "min":0, "max":1, "step":0.01}'
+    - '@property {bool} pressLight = true {"label":"Show light on press"}'
+    - '@property {bool} hoverLight = true {"label":"Show light on hover"}'
+    - '@property {bool} constantStretch {"label":"Strecth every angle"}'
+    - "*/"
+    - // @input TouchSettings touchSettings
+    - '// @ui {"widget":"separator"}'
+    - /*
+    - "@typedef ShapeSettings"
+    - "@property {vec2} shapeScale = {1,1}"
+    - '@property {vec2} shapePosition = {0,0} {"widget":"spinbox", "min":-100, "max":100, "step":0.001}'
+    - '@ui {"widget":"label", "label":""}'
+    - '@property {float} shapeSoftness = 0.4 {"widget":"slider", "min":0, "max":1, "step":0.01}'
+    - '@property {vec4} cornerRadius = {0.25,0.25,0.25,0.25} {"widget":"slider", "min":0, "max":1, "step":0.01}'
+    - "*/"
+    - // @input ShapeSettings shapeSettings
+    - '// @ui {"widget":"separator"}'
+    - '// @ui {"widget":"group_start", "label":"Remap Touch Boundries"}'
+    - "// @ui {\"widget\":\"label\", \"label\":\"<p style='color: #3E434E; background-color: #818C9A; text-align: center;'>Boundry of button shape: <em><strong>[-1, 1, -1, 1]</strong></em><br>You need to remap these values to boundry of your menu<br>v</p>\"}"
+    - "// @input vec2 min = {-1,-1}"
+    - "// @input vec2 max = {1,1}"
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"separator"}'
+    - /*
+    - "@typedef SelectedIconSetup"
+    - '@property {float} selectorMagnification {"label":"Icon Magnification"}'
+    - '@property {Asset.Texture} icon1 {"label":"Icon Set"}'
+    - '@property {bool} useColorAlt {"label":"Mono Color"}'
+    - '@property {vec3} iconColorAlt = {0,0,0} {"widget":"color", "showIf":"useColorAlt"}'
+    - '@property {float} colorChannelAlt {"widget":"slider", "min":0, "max":3, "step":1, "showIf":"useColorAlt"}'
+    - "*/"
+    - // @input SelectedIconSetup selectedIconsSetup
+    - '// @ui {"widget":"separator"}'
+    - '// @input float buttonType {"widget":"combobox", "values":[{"label":"Default", "value":0}, {"label":"Switch", "value":1}, {"label":"Slider", "value":2}]}'
+    - // @input bool useCustomTouchArea
+    - /*
+    - "@typedef CustomBaseInteraction"
+    - "@property {bool} debugOnScreen"
+    - '@property {vec2} position = {0,0} {"widget":"spinbox", "min":-100, "max":100, "step":0.001}'
+    - '@property {vec2} scale = {1,1} {"widget":"spinbox", "min":-100, "max":100, "step":0.001}'
+    - "*/"
+    - '// @input CustomBaseInteraction customBaseInteraction {"showIf":"useCustomTouchArea"}'
+    - // @input Asset.Material material
+    - // @input Asset.Material debugMaterial
+    - // @input Asset.Texture invisibleTex
